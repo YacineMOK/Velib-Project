@@ -1,0 +1,1438 @@
+stations_info = 
+ {<"213688169" 48.866 2.2757 35 "16107" "Benjamin Godard - Victor Hugo">
+     <"516709288" 48.856 2.3926 20 "11104" "Charonne - Robert et Sonia Delauney">
+     <"36255" 48.879 2.3374 21 "9020" "Toudouze - Clauzel">
+     <"37815204" 48.841 2.3876 30 "12109" "Mairie du 12ème">
+     <"100769544" 48.852 2.3437 45 "5001" "Harpe - Saint-Germain">
+     <"85002689" 48.819 2.3433 60 "14014" "Jourdan - Stade Charléty">
+     <"123095125" 48.871 2.3661 60 "10013" "Alibert - Jemmapes">
+     <"120827885" 48.875 2.3155 12 "8026" "Messine - Place Du Pérou">
+     <"251039991" 48.838 2.336 25 "14111" "Cassini - Denfert-Rochereau">
+     <"37874517" 48.852 2.3308 21 "6003" "Saint-Sulpice">
+     <"66491398" 48.835 2.3535 48 "13007" "Le Brun - Gobelins">
+     <"210403080" 48.844 2.352 23 "5110" "Lacépède - Monge">
+     <"210561800" 48.847 2.3214 17 "6108" "Saint-Romain - Cherche-Midi">
+     <"209063434" 48.91 2.3851 31 "33006" "André Karman - République">
+     <"94555589" 48.816 2.3768 27 "42016" "Pierre et Marie Curie - Maurice Thorez">
+     <"244498842" 48.836 2.4708 50 "41301" "Bois de Vincennes - Gare">
+     <"43195240" 48.836 2.2326 25 "21010" "Silly - Galliéni">
+     <"210405211" 48.856 2.3349 20 "6021" "Beaux-Arts - Bonaparte">
+     <"501862076" 48.862 2.1966 22 "25006" "Place Nelson Mandela ">
+     <"54000559" 48.882 2.3011 40 "17026" "Jouffroy d'Abbans - Wagram">
+     <"207633746" 48.876 2.2881 62 "17038" "Grande Armée - Brunel">
+     <"85043758" 48.883 2.2877 36 "17041" "Guersant - Gouvion-Saint-Cyr">
+     <"210566542" 48.851 2.3251 60 "7003" "Square Boucicaut">
+     <"437597018" 48.848 2.3162 29 "7001" "Invalides - Duroc">
+     <"210565680" 48.849 2.3204 35 "7002" "Vaneau - Sèvres">
+     <"210397939" 48.845 2.3495 17 "5016" "Thouin - Cardinal Lemoine">
+     <"82405965" 48.857 2.3729 43 "11025" "Froment - Bréguet">
+     <"213682736" 48.833 2.2994 52 "15047" "Morillons - Dantzig">
+     <"80101533" 48.879 2.3034 35 "17025" "Chazelles - Courcelles ">
+     <"54000581" 48.831 2.3482 34 "13101" "Croulebarde - Corvisart">
+     <"13105968" 48.822 2.3279 21 "14108" "Le Brix et Mesmin - Jourdan">
+     <"653208733" 48.868 2.4467 38 "31024" "Romainville - Vaillant-Couturier">
+     <"27415224" 48.854 2.2897 33 "15026" "Bir Hakeim">
+     <"907054879" 48.79 2.4329 20 "47007" "Liberté - Vert-de-Maisons">
+     <"129094535" 48.898 2.3285 42 "17044" "Porte de Saint-Ouen - Bessières">
+     <"54000612" 48.896 2.3811 43 "19033" "Cambrai - Benjamin Constant">
+     <"128986726" 48.871 2.3077 33 "8050" "Boétie - Ponthieu">
+     <"599135701" 48.871 2.3791 44 "20143" "Ramponeau - Belleville">
+     <"102747146" 48.849 2.4263 26 "43002" "Lagny - Victor Basch">
+     <"2515403527" 48.858 2.2549 30 "16138" "Saint-Cloud - Hippodrome">
+     <"653132534" 48.818 2.3267 25 "21216" "Louis Lejeune - Barbès">
+     <"506455295" 48.838 2.2705 16 "15068" "Général Martial Valin - Pont du Garigliano">
+     <"1057149522" 48.79 2.3144 22 "22207" "Rond-point du Dr Albert Schweitzer">
+     <"210567545" 48.853 2.3264 18 "7004" "Raspail - Varenne">
+     <"2515085147" 48.826 2.3576 21 "13030" "Italie - Tolbiac">
+     <"653197324" 48.893 2.2137 24 "92002" "Théâtre des Amandiers - Palais des sports">
+     <"210408693" 48.849 2.3411 26 "6029" "Vaugirard - Monsieur le Prince">
+     <"42950839" 48.88 2.3981 18 "19027" "Serrurier">
+     <"14813797734" 48.853 2.4247 28 "31028" "Raspail Barbès">
+     <"88230992" 48.882 2.314 30 "17048" "De Toqueville - Terrasse">
+     <"499303158" 48.796 2.4172 30 "44017" "Jules Guesde - Pont du Port à l'Anglais">
+     <"27415302" 48.841 2.2584 26 "16118" "Michel-Ange - Parent de Rosan">
+     <"27414512" 48.868 2.3494 40 "2017" "Caire - Dussoubs">
+     <"210580039" 48.879 2.3437 17 "9008" "Tour d'Auvergne - Rodier">
+     <"49474389" 48.874 2.3064 23 "8103" "Artois - Berri">
+     <"128940135" 48.869 2.299 21 "8048" "Marceau - Chaillot">
+     <"35149611" 48.821 2.3422 14 "14013" "Liard - Amiral Mouchez">
+     <"210570888" 48.859 2.3186 22 "7011" "Las Cases - Bourgogne">
+     <"129107656" 48.889 2.3334 25 "18111" "Félix Ziem - Armand Gauthier">
+     <"1057228658" 48.784 2.3591 22 "48003" "Youri Gagarine - Karl Marx">
+     <"230873471" 48.861 2.273 21 "16110" "Octave Feuillet - Albéric Magnard">
+     <"507934805" 48.898 2.3458 25 "18134" "Ney - Porte de Clignancourt ">
+     <"205047993" 48.839 2.3297 46 "14002" "Edgar Quinet - Raspail">
+     <"39799329" 48.875 2.3409 35 "9014" "Faubourg Montmartre - La Fayette">
+     <"129164969" 48.847 2.4521 50 "43009" "Place Jean-Spire-Lemaître">
+     <"128989986" 48.875 2.3018 29 "8053" "Place Georges Guillaumin">
+     <"129004826" 48.878 2.3485 17 "9001" "Bellefond - Poissonnière">
+     <"518825709" 48.887 2.2886 21 "17032" "Jean Oestreicher - Porte de Champerret">
+     <"128930462" 48.873 2.3237 29 "8016" "Square Louis XVI">
+     <"911767210" 48.879 2.3666 24 "10162" "Alexandre Parodi - Quai de Valmy">
+     <"54000565" 48.876 2.3681 27 "10115" "Granges aux Belles">
+     <"210586093" 48.881 2.3515 24 "10029" "Dunkerque - Rocroy">
+     <"1057296253" 48.824 2.3771 63 "13118" "Regnault - Patay">
+     <"7254" 48.845 2.3419 24 "5005" "Gay Lussac - Saint-Jacques">
+     <"369644630" 48.876 2.3595 32 "10161" "Gare de l'Est - Faubourg-Saint-Martin">
+     <"214114469" 48.838 2.4937 32 "41303" "Gare de Nogent-le-Perreux">
+     <"128887067" 48.851 2.3097 19 "7018" "Ségur - d'Estrées">
+     <"55927887" 48.835 2.3855 36 "12031" "Gabriel Lamé">
+     <"210574471" 48.879 2.3491 14 "9002" "Abbeville - Faubourg Poissonnière">
+     <"72765603" 48.846 2.3521 20 "5022" "Boulangers - Cardinal Lemoine">
+     <"210582921" 48.872 2.3294 14 "9106" "Boudreau - Auber">
+     <"43255030" 48.88 2.288 48 "17040" "Pereire - Ternes">
+     <"129025451" 48.883 2.3308 27 "9038" "Douai - Bruxelles">
+     <"128920403" 48.875 2.3265 27 "8009" "Gare Saint-Lazare - Isly">
+     <"323616530" 48.857 2.3418 17 "1001" "Quai de l'Horloge - Pont Neuf">
+     <"208795867" 48.884 2.3957 17 "19105" "Ambroise Rendu - Porte Brunet">
+     <"1062192012" 48.881 2.4804 36 "31103" "Gare Rosny-Bois-Perrier">
+     <"6296" 48.858 2.3358 17 "6001" "Institut de France">
+     <"521393180" 48.898 2.3231 23 "17008" "Porte Pouchet-Bessières">
+     <"576188379" 48.839 2.311 24 "15112" "Vigée-Lebrun - Anselme Payen">
+     <"128915891" 48.857 2.2932 33 "7025" "Octave Gréard - Tour Eiffel">
+     <"82567101" 48.863 2.4155 26 "31706" "Château - République">
+     <"457813746" 48.814 2.2873 16 "22409" "Henri Barbusse - Stalingrad">
+     <"128882438" 48.849 2.3558 40 "5020" "Institut du Monde Arabe - Saint-Germain">
+     <"50191171" 48.889 2.3834 24 "19015" "Thionville - Ourcq">
+     <"102290754" 48.884 2.3221 24 "17012" "Mairie du 17ème">
+     <"3906153622" 48.919 2.2814 16 "26003" "Argenteuil - Voltaire">
+     <"129087587" 48.889 2.3225 40 "17004" "Legendre - Clichy">
+     <"213693511" 48.884 2.3704 24 "19003" "Quai de la Seine">
+     <"82379648" 48.877 2.3097 33 "8036" "Lisbonne - Monceau">
+     <"907081682" 48.868 2.447 0 "31024_relais" "Romainville - Vaillant-couturier">
+     <"230877798" 48.885 2.3535 34 "18107" "Chartres - La Charbonnière">
+     <"66491397" 48.846 2.3726 60 "12151" "Gare de Lyon - Place Louis Armand">
+     <"2515995748" 48.896 2.2239 22 "92007" "Pesaro - Préfecture">
+     <"129014600" 48.873 2.338 33 "9022" "Rossini - Laffitte">
+     <"27363162" 48.855 2.2704 23 "16026" "Ranelagh - Mozart">
+     <"129021753" 48.88 2.3311 17 "9028" "Moncey - Blanche">
+     <"210740080" 48.882 2.3523 49 "10107" "Gare du Nord - Hôpital Lariboisière">
+     <"54000569" 48.862 2.3772 38 "11027" "Saint-Ambroise - Parmentier">
+     <"80216231" 48.88 2.2855 39 "17043" "Belidor - Gouvion-Saint-Cyr">
+     <"336511521" 48.882 2.3926 17 "19026" "Place de Rhin et Danube">
+     <"129043651" 48.855 2.3734 23 "11002" "Roquette - Thiéré">
+     <"82562556" 48.841 2.2644 49 "16039" "Exelmans - Versailles">
+     <"129048000" 48.859 2.3836 46 "11023" "Saint-Maur - Roquette">
+     <"1062250686" 48.809 2.5382 36 "45003" "11 Novembre 1918 - 8 Mai 1945">
+     <"261987383" 48.869 2.433 26 "31009" "Place Du Général De Gaulle">
+     <"813544903" 48.861 2.3678 30 "11047" "Amelot - Saint-Sébastien">
+     <"126050442" 48.884 2.2952 23 "17030" "Pereire - Rennequin">
+     <"27363489" 48.838 2.3973 27 "12111" "Claude Decaen - Cannebière">
+     <"39296638" 48.875 2.3083 35 "8034" "Berri - Haussmann">
+     <"205938683" 48.894 2.3979 53 "19043" "Delphine Seyrig - Général Leclerc">
+     <"210399835" 48.847 2.3465 39 "5032" "Panthéon - Valette">
+     <"1057324291" 48.822 2.3222 58 "14020" "Cimetière de Montrouge">
+     <"102324803" 48.872 2.392 40 "20042" "Pyrénées - Emmery">
+     <"101763163" 48.853 2.2931 12 "15067" "Desaix - Edgar Faure">
+     <"653133605" 48.82 2.4642 45 "43401" "Gare RER - Canadiens">
+     <"3906094706" 48.93 2.2837 32 "26002" "Redoute - Les Courtilles">
+     <"27414578" 48.845 2.3293 19 "6006" "Notre-Dame-des-Champs - Stanislas">
+     <"508042092" 48.822 2.4587 34 "12128" "Pyramide - Ecole du Breuil ">
+     <"42603855" 48.88 2.3265 17 "8010" "Liège - Moscou">
+     <"818302209" 48.861 2.4406 52 "31022" "Mairie de Montreuil">
+     <"13718041" 48.875 2.3826 24 "19101" "Square Simon Bolivar">
+     <"265464297" 48.837 2.3313 50 "14003" "Schoelcher - Raspail">
+     <"1057392676" 48.765 2.4071 35 "46002" "Rouget de Lisle">
+     <"102309973" 48.886 2.3329 43 "18003" "Cimetière de Montmartre">
+     <"532054446" 48.867 2.3693 58 "11113" "Richard Lenoir - Republique">
+     <"129034587" 48.875 2.3598 17 "10016" "Récollets - Square Villemin">
+     <"314829539" 48.836 2.4796 49 "41302" "Charles de Gaulle - Beauté">
+     <"586539770" 48.812 2.3031 22 "21212" "Marne - Germain Dardan">
+     <"3906335682" 48.815 2.3612 25 "42706" "Roger Salengro - Fontainebleau">
+     <"583539396" 48.916 2.3814 29 "33017" "Anatole France - President Roosevelt">
+     <"101753100" 48.834 2.2714 16 "15042" "Henry Farman">
+     <"27415466" 48.874 2.3896 22 "20112" "Jourdain - Place des Grandes Rigoles">
+     <"52393" 48.897 2.396 50 "19044" "Grands Moulins de Pantin">
+     <"81081358" 48.893 2.3636 39 "18011" "Pajol - Place Herbert">
+     <"66491385" 48.848 2.4451 25 "43008" "Fontenay - Libération">
+     <"209057581" 48.886 2.4073 18 "33102" "Gabriel Péri - Francisco Ferrer">
+     <"66491389" 48.865 2.3025 58 "8045" "Place de la Reine Astrid">
+     <"596872103" 48.818 2.2712 30 "21312" "Lucie Aubrac - Fort">
+     <"210749865" 48.838 2.3448 18 "13001" "Port-Royal - Hôpital du Val-de-Grâce">
+     <"535500589" 48.838 2.2754 64 "15104" "Hôpital Européen Georges Pompidou ">
+     <"597245295" 48.799 2.3821 35 "44006" "Concorde - Stalingrad">
+     <"583171360" 48.806 2.3202 30 "22202" "Jean Marin Naudin - Stalingrad">
+     <"235513935" 48.877 2.3861 27 "19120" "Carducci - Place Hannah Arendt">
+     <"27206194" 48.842 2.3414 20 "5004" "Saint-Jacques - Val de Grâce">
+     <"102323152" 48.885 2.392 20 "19103" "Manin - Carrières d'Amérique">
+     <"82584215" 48.83 2.2639 62 "21306" "Place Lafayette">
+     <"129060764" 48.844 2.4151 28 "12114" "Victor Hugo - Jeanne Jugan">
+     <"828134511" 48.828 2.3057 32 "14138" "Porte de Vanves">
+     <"586649404" 48.771 2.4034 25 "46003" "Conservatoire de Musique">
+     <"596813170" 48.847 2.4788 15 "41209" "Cimetière de Fontenay-sous-Bois">
+     <"271426439" 48.872 2.3723 19 "10024" "Buisson Saint-Louis - Saint-Maur">
+     <"213684314" 48.853 2.2979 25 "15105" "Fédération - Suffren">
+     <"27363187" 48.896 2.3456 46 "18031" "Place Albert Kahn">
+     <"76199461" 48.894 2.332 33 "18028" "Championnet - Vauvenargues">
+     <"230952057" 48.814 2.3909 32 "42014" "Place Marcel Cachin">
+     <"37815993" 48.848 2.3503 37 "5018" "Mutualité">
+     <"88140066" 48.876 2.3226 65 "8017" "Rocher - Laborde">
+     <"213683101" 48.838 2.2877 19 "15054" "Lecourbe - Jean Maridor">
+     <"213684750" 48.85 2.2946 35 "15106" "Grenelle - Violet">
+     <"129067920" 48.832 2.3293 39 "14008" "Mouton Duvernet - Général Leclerc">
+     <"2515049357" 48.843 2.3446 24 "5124" "Erasme - Ulm">
+     <"27364743" 48.825 2.3107 21 "14106" "Marc Sangnier - Porte de Vanves">
+     <"102314792" 48.888 2.3261 33 "18046" "Etienne Jodelle - Saint Ouen">
+     <"35447568" 48.815 2.2981 23 "22406" "Guy Môquet - Etienne Dolet">
+     <"129038848" 48.872 2.3484 16 "10042" "Enghien - Faubourg Poissonnière">
+     <"27415736" 48.907 2.396 30 "35002" "Jean Jaurès - Presles">
+     <"583178525" 48.876 2.4677 21 "31102" "Boissière - Etienne Dolet">
+     <"2514995690" 48.867 2.3367 30 "2111" "Chabanais - Petits Champs">
+     <"82387816" 48.876 2.3013 32 "8054" "Bertie Albrecht - Hoche">
+     <"213685090" 48.842 2.281 29 "15109" "Cevennes - Bergers">
+     <"301841024" 48.811 2.3146 30 "21209" "Molière - République">
+     <"66491402" 48.89 2.3491 37 "18022" "Marcadet - Barbès">
+     <"213679512" 48.827 2.3385 25 "14012" "Sibelle - Alésia">
+     <"588452142" 48.891 2.4028 24 "35010" "Hoche - Jean Lolive">
+     <"85147829" 48.835 2.2417 26 "21005" "Hôtel de Ville de Boulogne Billancourt">
+     <"213681356" 48.821 2.3337 22 "14124" "David Weill - Parc Montsouris">
+     <"2515351285" 48.837 2.2931 27 "15133" "Saint Lambert - Blomet">
+     <"213685514" 48.836 2.2811 24 "15110" "Place Robert Guillemard">
+     <"572566600" 48.781 2.3724 30 "44013" "Edouard Tremblay - Julian Grimaux">
+     <"102329800" 48.842 2.2332 27 "21006" "Marcelin Berthelot">
+     <"54000625" 48.859 2.3896 33 "20131" "Repos - Cimetière du Père Lachaise">
+     <"213911772" 48.857 2.4376 57 "31008" "François Debergue - Croix de Chavaux">
+     <"129132870" 48.828 2.2416 23 "21015" "Nationale - Place Jules Guesde">
+     <"620403530" 48.79 2.4026 20 "44003" "Gabriel Péri - Danielle Casanova">
+     <"66491378" 48.844 2.2941 53 "15034" "Lakanal - Commerce">
+     <"631773910" 48.796 2.4262 26 "41404" "Carnot - Pâquerettes">
+     <"611152693" 48.788 2.3062 28 "22203" "Tertres - Fontaine">
+     <"1765749389" 48.785 2.3647 16 "48010" "Karl Marx.">
+     <"235241110" 48.844 2.463 61 "41202" "Gare Rer de Fontenay sous Bois">
+     <"613737748" 48.809 2.3903 32 "42021" "Raspail - Manufacture des Oeillets">
+     <"41498023" 48.865 2.3761 24 "11030" "Oberkampf - République">
+     <"1062671597" 48.861 2.3494 24 "1119" "Cossonnerie - Sébastopol">
+     <"213945171" 48.875 2.4153 22 "31708" "Noisy le Sec - Jean-Baptiste Clément">
+     <"463297497" 48.884 2.4138 20 "35020" "Marcelle - Thalie">
+     <"213875650" 48.893 2.1724 24 "25003" "Henri Ste-Claire Déville - Paul Héroult">
+     <"245187072" 48.864 2.4105 20 "20115" "Louis Lumière - Porte de Bagnolet">
+     <"129144878" 48.855 2.4187 30 "31003" "Paris - Emile Zola">
+     <"27415665" 48.821 2.3027 43 "22402" "Jean Jaurès - Salvador Allende">
+     <"593238093" 48.875 2.3317 24 "9116" "Victoire - Chaussée d'Antin">
+     <"102331767" 48.838 2.2461 34 "21008" "Victor Hugo - Galliéni">
+     <"37791" 48.866 2.3693 36 "11039" "Richard Lenoir - Jean-Pierre Timbaud">
+     <"50156117" 48.885 2.3164 23 "17013" "Legendre - Dulong">
+     <"15462236" 48.867 2.2908 32 "16008" "Galilée - Kléber">
+     <"129093478" 48.886 2.2908 28 "17031" "Place de la Porte de Champerret">
+     <"35908" 48.848 2.3418 19 "5106" "Cujas - Saint-Michel">
+     <"210744286" 48.861 2.3813 45 "11026" "Chemin Vert - Saint-Maur">
+     <"101024234" 48.828 2.3843 57 "13050" "Quai Panhard et Levassor">
+     <"213992316" 48.881 2.4201 50 "32604" "Square du Théâtre du Garde-Chasse">
+     <"213694482" 48.878 2.3815 20 "19024" "Botzaris - Parc des Buttes Chaumont">
+     <"210573120" 48.875 2.2971 33 "8057" "Hoche - Tilsitt">
+     <"129011497" 48.877 2.3444 24 "9010" "Rochechouart lamartine">
+     <"101743895" 48.845 2.2975 64 "15021" "Joseph Liouville - Croix Nivert">
+     <"213691848" 48.883 2.282 42 "17105" "Place Madeleine Daniélou">
+     <"210396518" 48.845 2.3455 16 "5012" "Estrapade - Ulm">
+     <"97677210" 48.864 2.375 50 "11105" "Parmentier - République ">
+     <"39254792" 48.859 2.379 51 "11024" "Mairie du 11ème">
+     <"213683992" 48.843 2.2751 51 "15103" "Cauchy - Cévennes">
+     <"102338493" 48.817 2.281 29 "21701" "Larmeroux - Baudelaire">
+     <"54000601" 48.886 2.3569 22 "18009" "Jean-François Lépine - Stephenson">
+     <"27362896" 48.887 2.2614 26 "22003" "Beffroy">
+     <"213687140" 48.845 2.2657 34 "16038" "Molitor - Chardon-Lagache">
+     <"235599121" 48.839 2.4176 26 "41601" "Général De Gaulle - Alouette">
+     <"213680917" 48.828 2.3209 25 "14110" "Abbé Carton - Plantes">
+     <"1057774603" 48.889 2.3112 32 "17125" "Marie-Georges Picquart - Pereire">
+     <"213688462" 48.864 2.2819 38 "16108" "Sablons - Georges Mandel">
+     <"102749572" 48.848 2.4334 51 "43005" "Gare RER de Vincennes">
+     <"390212609" 48.85 2.273 30 "16136" "Théophile Gautier - François Millet">
+     <"63498079" 48.881 2.3735 26 "19022" "Marché Secrétan">
+     <"549876068" 48.873 2.3765 48 "19032" "Villette - Belleville">
+     <"875078767" 48.867 2.406 20 "20134" "Lieutenant Chauré - Etienne Marey">
+     <"1558958733" 48.898 2.2384 28 "24001" "Arche - Léonard de Vinci">
+     <"2515802454" 48.88 2.2764 26 "22016" "Charles de Gaulle - Sablonville">
+     <"648227675" 48.826 2.321 40 "14136" "Auguste Cain - Jean Moulin">
+     <"42566291" 48.874 2.3158 35 "8025" "Miromesnil - La Boétie">
+     <"1062206433" 48.877 2.4462 20 "32302" "Chemin Vert - Fraternité">
+     <"129032910" 48.872 2.3639 55 "10014" "Marseille - Beaurepaire">
+     <"647826568" 48.851 2.3471 31 "5123" "Saint-Germain - Thenard">
+     <"54000577" 48.835 2.3446 27 "13002" "Arago - Glacière">
+     <"54001024" 48.869 2.3717 52 "11035" "Parmentier - Abel Rabaud">
+     <"94250567" 48.811 2.3843 53 "42010" "Mairie d'Ivry-sur-Seine">
+     <"129078200" 48.832 2.3023 29 "15046" "Parc Georges Brassens - Brancion">
+     <"649888071" 48.767 2.4145 19 "46001" "Place Paul Eluard">
+     <"82563707" 48.843 2.2598 33 "16040" "Exelmans - Michel-Ange">
+     <"129143598" 48.883 2.2601 28 "22006" "Pierret - Madrid">
+     <"213690847" 48.889 2.2963 37 "17028" "Reims - Raymond Pitet">
+     <"102333275" 48.819 2.254 34 "21301" "Saint-Vincent - Verdun">
+     <"640629438" 48.794 2.3211 22 "42302" "Aristide Briand - Gare de Bagneux">
+     <"27363362" 48.887 2.3746 19 "19029" "Seine - Flandre">
+     <"237624030" 48.873 2.3295 36 "9032" "Mathurins - Auber">
+     <"213957917" 48.909 2.3584 28 "32003" "Wilson - Métallurgie">
+     <"54000626" 48.904 2.3187 22 "21104" "Madame de Sanzillon - Mozart">
+     <"6399" 48.886 2.3865 33 "19016" "Hautpoul - Jean Jaurès">
+     <"210746090" 48.865 2.3692 49 "11042" "Grand Prieuré - Crussol">
+     <"27414841" 48.883 2.3449 33 "9005" "Square d'Anvers">
+     <"82253759" 48.858 2.3193 27 "7102" "Mairie du 7ème">
+     <"82457375" 48.844 2.3066 31 "15013" "Volontaire - Lecourbe">
+     <"54000609" 48.885 2.38 34 "19013" "Laumière - Petit">
+     <"82328045" 48.858 2.3469 22 "1002" "Victoria - Place du Chatelet">
+     <"27415512" 48.905 2.3106 35 "21110" "Parc Roger Salengro">
+     <"55664548" 48.852 2.3741 34 "11004" "Charonne - Faubourg Saint-Antoine">
+     <"214134714" 48.8 2.3282 26 "42301" "Gare Arcueil - Cachan">
+     <"214139374" 48.814 2.341 30 "42504" "Gare RER de Gentilly">
+     <"213702608" 48.869 2.392 19 "20121" "Boyer - Ménilmontant">
+     <"559507144" 48.818 2.3744 25 "42015" "Place Jean Ferrat">
+     <"213700358" 48.867 2.3962 20 "20111" "Villiers de l'Isle Adam - Pyrénées">
+     <"653063170" 48.93 2.3564 40 "32016" "Place de la Porte de Paris">
+     <"3906215030" 48.831 2.2921 38 "15201" "Place Amédée Gordini - Lefebvre">
+     <"129151834" 48.857 2.4451 42 "31010" "Stalingrad - Désiré Chevalier">
+     <"237041013" 48.847 2.3431 19 "5006" "Saint-Jacques - Soufflot">
+     <"54000553" 48.869 2.3066 35 "8013" "Marignan - Champs-Elysées">
+     <"653200142" 48.892 2.2055 38 "92008" "Hôtel de Ville de Nanterre">
+     <"650091839" 48.805 2.418 25 "41402" "Victor Hugo - Ecoles">
+     <"362869414" 48.846 2.4272 26 "43003" "Hôpital Bégin">
+     <"49859500" 48.846 2.3793 18 "12009" "Charenton - Diderot">
+     <"100859941" 48.856 2.3257 52 "7005" "Raspail - Bac">
+     <"49368561" 48.868 2.3679 58 "11036" "Jules Ferry - Faubourg du Temple Paris">
+     <"42743053" 48.889 2.3562 36 "18012" "Stephenson - Doudeauville">
+     <"213699913" 48.889 2.3785 30 "19125" "Place de l'Édit de Nantes">
+     <"101740379" 48.834 2.3293 45 "14036" "Boulard - Daguerre">
+     <"4329844165" 48.895 2.3648 33 "18201" "Tristan Tzara -  Tchaïkovski">
+     <"213694069" 48.895 2.3819 26 "19008" "Flandre - Alphonse Karr">
+     <"468843711" 48.878 2.3374 23 "9021" "Saint Georges - d'Aumale">
+     <"378626842" 48.889 2.2882 50 "23009" "Anatole France - Louise Michel">
+     <"27414945" 48.843 2.3862 16 "12027" "Montgallet - Charenton">
+     <"210090269" 48.853 2.3829 63 "11007" "Jean Macé - Faidherbe">
+     <"376664868" 48.894 2.4326 30 "32303" "Gaston Roussel - Commune de Paris">
+     <"2515927759" 48.803 2.3787 28 "42029" "Stalingrad - Germaine Tailleferre">
+     <"205955605" 48.877 2.313 36 "8035" "Bienfaisance - Place de Narvik">
+     <"38263504" 48.824 2.2607 25 "21305" "Place Jacques Madaule">
+     <"933214552" 48.831 2.2791 26 "21313" "Guynemer - Séverine">
+     <"66491370" 48.855 2.3376 28 "6013" "Jacques Callot - Mazarine">
+     <"353462947" 48.879 2.242 30 "28001" "Richard Wallace - Place du 8 Mai 1945">
+     <"1559700274" 48.907 2.2695 20 "26007" "Square Gilbert Thomain">
+     <"39217683" 48.888 2.3001 28 "17102" "Alfred Roll - Berthier">
+     <"213688824" 48.859 2.2765 33 "16111" "Faustin Hélie - Desbordes-Valmore">
+     <"82337423" 48.857 2.3153 47 "7015" "Varenne">
+     <"66491404" 48.888 2.3738 21 "19005" "Flandre - Riquet">
+     <"652120758" 48.824 2.3186 59 "14021" "Place de la Porte de Châtillon">
+     <"66491393" 48.851 2.2967 47 "15025" "Dupleix - du Guesclin">
+     <"1062223873" 48.895 2.4188 23 "35018" "Ancien Canal - Hélène Brion">
+     <"49085250" 48.887 2.3614 19 "18110" "Departement - Pajol">
+     <"376526598" 48.879 2.416 47 "32602" "Mairie des Lilas">
+     <"27071684" 48.846 2.4155 33 "12115" "Porte de Vincennes">
+     <"2515907297" 48.846 2.4236 19 "41606" "Pasteur - Gambetta">
+     <"66491401" 48.894 2.3144 56 "17011" "Fragonard - Porte de Clichy">
+     <"341388492" 48.878 2.2977 46 "17045" "Place des Ternes.">
+     <"985828965" 48.82 2.4738 40 "43402" "Place de Verdun">
+     <"338762459" 48.911 2.3799 30 "33018" "Edouard Poisson - Victor Hugo">
+     <"323486248" 48.844 2.3896 16 "12013" "Montgallet - Reuilly">
+     <"66491392" 48.871 2.3699 43 "10113" "Parmentier - Hôpital Saint-Louis">
+     <"478952881" 48.852 2.389 24 "11009" "Boulets - Voltaire">
+     <"501318622" 48.851 2.3891 24 "11115" "Montreuil - Gonnet">
+     <"570185777" 48.899 2.2507 36 "24002" "Gare de Courbevoie">
+     <"470807791" 48.879 2.2708 33 "16121" "Jardin d'Acclimatation">
+     <"82445192" 48.839 2.3209 39 "14117" "Gare Montparnasse - René Mouchotte">
+     <"2515658032" 48.885 2.3472 19 "18141" "Clignancourt - Sofia">
+     <"568135465" 48.893 2.2775 39 "23001" "Paul Vaillant Couturier - Chaptal">
+     <"214102967" 48.809 2.3349 43 "41102" "Gare de Laplace">
+     <"54000597" 48.882 2.2921 22 "17037" "Bayen - Pereire">
+     <"82417874" 48.853 2.3891 59 "11102" "Alexandre Dumas - Voltaire">
+     <"102319838" 48.883 2.3711 16 "19004" "Quai de la Loire - Jean Jaurès">
+     <"652192395" 48.875 2.2494 66 "16124" "Route de Sèvres - Porte de Bagatelle">
+     <"571923059" 48.904 2.383 48 "33003" "Bordier - Félix Faure">
+     <"66491405" 48.852 2.3984 27 "20043" "Charonne - Avron">
+     <"54000635" 48.908 2.3786 33 "33009" "Félix Faure - Sadi Carnot">
+     <"54000544" 48.847 2.3535 39 "5021" "Jussieu - Fossés Saint-Bernard">
+     <"1062179194" 48.869 2.1854 25 "25005" "18 juin 1940 - Buzenval">
+     <"1063017616" 48.907 2.2468 22 "22505" "Mairie de La Garenne Colombes">
+     <"378648513" 48.828 2.3705 36 "13045" "Jean Colly - Tolbiac">
+     <"27278603" 48.898 2.3862 27 "19115" "Porte de la Villette">
+     <"13497763" 48.836 2.3194 23 "14034" "Ouest - Château ">
+     <"653042442" 48.918 2.3523 40 "32010" "Place aux Étoiles">
+     <"49807107" 48.864 2.2724 18 "16018" "Flandrin - Henri Martin">
+     <"82450803" 48.848 2.3026 59 "15010" "Square Cambronne">
+     <"210747224" 48.832 2.3864 49 "12034" "Pirogues de Bercy - Libourne">
+     <"210568512" 48.861 2.3201 63 "7009" "Assemblée Nationale">
+     <"213691542" 48.878 2.2844 52 "17042" "Porte Maillot - Pereire">
+     <"357409723" 48.845 2.2906 30 "15033" "Place Violet">
+     <"2515855808" 48.903 2.3741 34 "33019" "Madeleine Vionnet">
+     <"384370499" 48.836 2.3026 26 "15122" "Place Charles Vallin">
+     <"49403716" 48.873 2.3098 27 "8033" "Commandant Rivière">
+     <"54000571" 48.839 2.3897 55 "12029" "Dugommier">
+     <"473204291" 48.903 2.3681 34 "33001" "Victor Hugo - Magasins Généraux">
+     <"27363103" 48.848 2.2608 33 "16034" "Porte d'Auteuil">
+     <"85145704" 48.853 2.4039 26 "20132" "Réunion - Avron">
+     <"653044270" 48.84 2.3475 17 "5114" "Claude Bernard - Arbalète">
+     <"27415179" 48.825 2.3264 22 "14019" "Sarrette - Général Leclerc">
+     <"26958435" 48.87 2.3967 25 "20119" "Square des Saint-Simoniens">
+     <"6385" 48.887 2.3938 22 "19019" "Petit - Manin">
+     <"213857398" 48.814 2.2723 14 "21403" "Gare de Clamart">
+     <"82550925" 48.827 2.4059 37 "42207" "Place des Marseillais">
+     <"27363096" 48.837 2.3918 33 "12030" "Charenton - Wattignies">
+     <"85165045" 48.812 2.3617 25 "42707" "Place Jean-Baptiste Clément">
+     <"129119449" 48.871 2.399 19 "20036" "Ménilmontant - Pelleport">
+     <"475524450" 48.889 2.1956 25 "92003" "Chanzy - Sud-Est">
+     <"653048150" 48.846 2.3557 40 "5119" "Jussieu - Guy de la Brosse">
+     <"244400797" 48.892 2.4092 22 "35009" "Jean Lolive - Parc Stalingrad">
+     <"213922790" 48.864 2.4162 50 "31705" "Champeaux - Gallieni">
+     <"129001431" 48.878 2.2993 31 "8055" "Courcelles - Place des Ternes">
+     <"210753033" 48.843 2.364 14 "13014" "Gare d'Austerlitz">
+     <"653203262" 48.927 2.2391 30 "27002" "Parc Pierre Lagravère">
+     <"406806401" 48.905 2.3024 28 "21109" "Guichet - Jean Jaurès">
+     <"85143075" 48.873 2.4133 30 "20120" "Evariste Galois">
+     <"1063035479" 48.813 2.1922 24 "23701" "Parvis Robert Schuman - Roger Salengro">
+     <"54000595" 48.896 2.3227 36 "17007" "Navier - Epinettes">
+     <"82571110" 48.871 2.2277 26 "21502" "Verdun - Place Henri IV">
+     <"54000582" 48.841 2.3246 27 "14001" "Edgar Quinet - Gaité">
+     <"217235307" 48.856 2.4415 25 "31012" "Place Carnot">
+     <"210748575" 48.824 2.4185 51 "12126" "Gravelle - Route du Bac">
+     <"82421994" 48.84 2.3826 35 "12024" "Gare de Bercy">
+     <"214123470" 48.815 2.4029 26 "42023" " Place Léon Gambetta">
+     <"129086648" 48.862 2.2618 42 "16129" "Ceinture du Lac Inferieure - Saint-Cloud">
+     <"217572769" 48.895 2.4254 28 "35019" "Anatole France - Jean Lolive">
+     <"214298601" 48.833 2.3173 23 "14104" "Boyer-Barret - Raymond Losserand">
+     <"129125489" 48.872 2.385 21 "20113" "Piat - Parc de Belleville">
+     <"214122655" 48.849 2.4179 31 "41604" "Lagny - Joffre">
+     <"15461933" 48.881 2.3095 18 "17018" "Parc Monceau">
+     <"82458977" 48.836 2.3104 23 "15017" "Place Falguière">
+     <"129077035" 48.851 2.2872 51 "15029" "Emeriau - Place de Brazzaville">
+     <"221047138" 48.871 2.4241 18 "31702" "Pierre et Marie Curie - Julien Grimau">
+     <"15308782" 48.85 2.345 34 "5002" "Sommerard - Saint-Jacques">
+     <"216473073" 48.884 2.3418 18 "18005" "Tardieu - Chappe">
+     <"37521" 48.874 2.3484 17 "10005" "Petites Ecuries - Faubourg Poissonnière">
+     <"35196898" 48.844 2.3657 27 "13104" "Gare d'Austerlitz - Quai Saint-Bernard">
+     <"653046029" 48.844 2.364 37 "5116" "Place Valhubert">
+     <"2515976231" 48.901 2.2127 20 "92004" "Nanterre - Université">
+     <"129103849" 48.891 2.34 20 "18020" "Francoeur - Marcadet">
+     <"1057009034" 48.87 2.3888 27 "20136" "Henri Chevreau - Couronnes">
+     <"82334007" 48.839 2.35 49 "5026" "Pascal - Claude Bernard">
+     <"214146056" 48.841 2.4308 29 "43006" "Vignerons - Minimes">
+     <"85008390" 48.851 2.292 71 "15028" "Grenelle - Dr Finlay">
+     <"216039437" 48.874 2.3034 26 "8102" "Lamennais - Washington ">
+     <"215495494" 48.883 2.3265 47 "8012" "Batignolles - Place de Clichy">
+     <"43155320" 48.823 2.3249 48 "14018" "Porte d'Orléans">
+     <"129130397" 48.826 2.2488 21 "21013" "Pierre Grenier - Pont de Billancourt">
+     <"653129412" 48.813 2.332 31 "42503" "Vladimir Ilitch Lénine - Andrée Chedid">
+     <"54000634" 48.887 2.2843 25 "23011" "Bineau - Louise Michel">
+     <"419381597" 48.908 2.3079 50 "21111" "Professeur René Leriche - Général Leclerc ">
+     <"434419150" 48.833 2.2678 36 "21308" "Bara - Henri Farman">
+     <"54000548" 48.859 2.3314 32 "7006" "Quai Voltaire">
+     <"54000466" 48.871 2.3431 29 "2010" "Uzès - Montmartre">
+     <"426772876" 48.853 2.3772 32 "11114" "Ledru-Rollin - Charonne">
+     <"74620630" 48.87 2.3842 26 "20040" "Parc de Belleville - Julien Lacroix">
+     <"129091653" 48.887 2.3145 34 "17017" "Gare de Pont-Cardinet">
+     <"100905057" 48.878 2.3265 23 "8101" "Londres - Amsterdam">
+     <"129134084" 48.902 2.3129 25 "21105" "Morice - Général Leclerc">
+     <"210754072" 48.823 2.3543 35 "13026" "Place Jean Delay">
+     <"419991048" 48.898 2.2791 50 "23002" "Pont de Levallois-bécon ">
+     <"2820744873" 48.831 2.3119 30 "14139" "Pierre Larousse - Raymond Losserand">
+     <"213676825" 48.837 2.3652 51 "13102" "Pitié-Salpêtrière">
+     <"15299574" 48.852 2.3806 49 "11101" "Charles Delescluze">
+     <"41566122" 48.837 2.2837 54 "15055" "Vasco de Gama">
+     <"963786819" 48.829 2.3165 30 "14130" "Jonquoy - Didot">
+     <"427678168" 48.874 2.3621 46 "10015" "Lucien Sampaix - Récollets">
+     <"976762284" 48.853 2.4877 28 "41207" "Place du Général de Gaulle">
+     <"213686196" 48.869 2.2899 19 "16006" "Lauriston - Copernic">
+     <"11004671601" 48.902 2.3305 27 "34002" "Capitaine Glarner - Gabriel Péri">
+     <"27414601" 48.852 2.3146 42 "7014" "Saint-François-Xavier">
+     <"129036192" 48.876 2.3609 14 "10023" "Gare de l'Est - Verdun">
+     <"82421013" 48.845 2.3826 35 "12011" "Charenton - Place du Col Bourgoin">
+     <"252339799" 48.835 2.2479 28 "21019" "Edouard Vaillant - Paul-Adolphe Souriau">
+     <"224589573" 48.843 2.335 18 "6018" "Michelet - Assas">
+     <"220502135" 48.835 2.4077 36 "12032" "Porte Dorée">
+     <"129114993" 48.877 2.4048 32 "19037" "Belleville - Porte des Lilas">
+     <"129124069" 48.869 2.4054 21 "20109" "Haxo - Surmelin">
+     <"221094844" 48.85 2.3276 23 "6107" "Place Alphonse Deville">
+     <"220726050" 48.85 2.3304 55 "6103" "Mézières - Rennes ">
+     <"254224239" 48.84 2.3011 63 "15038" "Place Adolphe Cherioux - Vaugirard">
+     <"129116697" 48.886 2.3689 19 "19109" "Tanger - Place du Maroc">
+     <"977409509" 48.855 2.436 38 "31019" "Vincennes - Douy-Delcupe">
+     <"653055049" 48.925 2.3644 35 "32014" "Place du Cornillon - Stade de France">
+     <"221041655" 48.897 2.344 56 "18032" "Porte de Clignancourt.">
+     <"1057769632" 48.899 2.3295 26 "17124" "Porte de Saint-Ouen - Henri Huchard">
+     <"1333959209" 48.795 2.3734 19 "44012" "Génie - Mozart">
+     <"213690256" 48.885 2.2983 46 "17027" "Place du Maréchal Juin - Péreire">
+     <"476183970" 48.876 2.3585 40 "10165" "Gare de l'Est - Place du 11 Novembre 1918">
+     <"632007124" 48.862 2.4436 36 "31016" "Lucie Aubrac - Franklin">
+     <"977206088" 48.947 2.2496 30 "51003" "Hôtel de Ville d'Argenteuil">
+     <"213868408" 48.843 2.2222 31 "22101" "Gare Routière de Saint Cloud">
+     <"129061615" 48.831 2.3797 34 "13016" "Primo Levi - Frigos">
+     <"43165673" 48.856 2.383 39 "11020" "Belfort - Voltaire">
+     <"82381710" 48.882 2.3203 15 "8051" "Batignolles - Rome">
+     <"84986959" 48.851 2.3692 62 "12001" "Bastille - Biscornet">
+     <"1805401614" 48.838 2.2282 27 "21032" "Sèvres-Gallieni">
+     <"224598098" 48.832 2.3675 51 "13043" "Dunois - Clisson">
+     <"10968855" 48.827 2.3093 19 "14122" "Colonel Monteil - Brune">
+     <"82508970" 48.822 2.4215 26 "44102" "Verdun - Adrien Damalix">
+     <"653055097" 48.878 2.3412 22 "9115" "Milton - Manuel">
+     <"221038698" 48.876 2.2642 26 "16123" "Mahatma Gandhi">
+     <"27246227" 48.88 2.3748 24 "19039" "Edouard Pailleron - Simon Bolivar ">
+     <"63297" 48.847 2.2685 21 "16032" "Eglise d'Auteuil">
+     <"95927849" 48.846 2.237 24 "21003" "Jean Jaurès - Jean Baptiste Clément ">
+     <"102341385" 48.89 2.2701 23 "22001" "Château - Bineau">
+     <"54000605" 48.893 2.3446 40 "18025" "Mairie du 18ème">
+     <"979059925" 48.886 2.3206 29 "17122" "Bridaine - Lamandé">
+     <"6512" 48.869 2.4093 15 "20027" "Porte de Ménilmontant">
+     <"27363323" 48.872 2.3372 33 "9023" "Laffitte - Italiens">
+     <"85118872" 48.863 2.4033 38 "20021" "Indre - Prairies">
+     <"102289046" 48.845 2.2873 22 "15108" "Lourmel - Marie Skobtsov">
+     <"124402232" 48.876 2.3996 41 "19040" "Belleville - Télégraphe">
+     <"985086307" 48.906 2.2835 24 "26001" "Gare d'Asnières sur Seine">
+     <"27415327" 48.884 2.2986 26 "17047" "Courcelles - Pierre Demours">
+     <"100798076" 48.852 2.3414 22 "6016" "Danton - Serpente">
+     <"15298647" 48.864 2.3661 36 "11040" "Temple - Jean-Pierre Timbaud">
+     <"1063404053" 48.852 2.462 20 "41204" "République - Danton">
+     <"82577019" 48.897 2.3846 30 "19009" "Cité des Sciences et de l'Industrie">
+     <"76199110" 48.871 2.2749 0 "16004" "Université Paris Dauphine">
+     <"54000598" 48.878 2.2945 25 "17046" "Mac-Mahon - Brey">
+     <"2515829865" 48.936 2.3589 22 "32017" "Basilique">
+     <"989753852" 48.894 2.326 20 "17121" "Square des Epinettes">
+     <"990000217" 48.81 2.4581 16 "47006" "Les Planètes ">
+     <"121025345" 48.877 2.3513 11 "10020" "Chabrol - d'Hauteville">
+     <"213692714" 48.888 2.3343 24 "18113" "Lepic - Armée d'Orient">
+     <"39256416" 48.89 2.3629 47 "18109" "Pajol - Riquet ">
+     <"255207155" 48.876 2.389 20 "19038" "Lassus - Delouvain">
+     <"63769334" 48.894 2.3415 39 "18029" "Emile Blemont - Poteau">
+     <"129136818" 48.821 2.2911 23 "21703" "Square du Carrefour de l'Insurrection">
+     <"98132679" 48.823 2.2965 49 "21706" " Jean Bleuzen - Square du 11 Novembre">
+     <"27415469" 48.856 2.4088 24 "20118" "Orteaux - Mouraud">
+     <"39599631" 48.858 2.2745 23 "16021" "François Ponsard - La Muette ">
+     <"84979504" 48.874 2.333 25 "9031" "Provence - Chaussée d'Antin">
+     <"37936869" 48.848 2.3292 35 "6030" "Assas - Vaugirard">
+     <"85120104" 48.865 2.404 15 "20023" "Pelleport - Belgrand">
+     <"653059015" 48.878 2.3453 31 "9117" "Bellefond - Maubeuge">
+     <"101748685" 48.842 2.2922 43 "15035" "Place Etienne Pernet">
+     <"54000608" 48.899 2.369 55 "18049" "Porte d'Aubervilliers">
+     <"653080986" 48.902 2.4018 7 "35017" "Toffier Decaux - Cartier Bresson">
+     <"102743096" 48.875 2.4242 27 "31703" "Sadi Carnot - François Mitterrand ">
+     <"66491394" 48.861 2.3758 43 "11041" "Square Saint-Ambroise">
+     <"126175087" 48.903 2.3933 25 "35003" "Gabrielle Josserand - Edouard Vaillant">
+     <"101746493" 48.848 2.2899 53 "15031" "Théâtre - Lourmel">
+     <"27363137" 48.831 2.2412 22 "21014" "Hameau Fleuri - Marché">
+     <"339797666" 48.893 2.4127 26 "35014" "Charles de Gaulle - Jean Lolive">
+     <"1968156458" 48.815 2.4224 36 "47005" "Ecole Vétérinaire">
+     <"82404497" 48.856 2.379 37 "11006" "Ledru-Rollin - Place du Père Chaillet">
+     <"991351798" 48.891 2.3689 23 "19127" "Aubervilliers - Curial">
+     <"7304" 48.868 2.2961 15 "16015" "Bassano -  Iéna">
+     <"54000592" 48.839 2.2783 36 "15070" "Balard - Montagne de la Fage">
+     <"54000572" 48.848 2.3903 21 "12107" "Diderot - Pierre Bourdan">
+     <"15409531" 48.836 2.338 16 "14112" "Méchain - Faubourg Saint-Jacques">
+     <"29327" 48.809 2.4345 21 "47004" "Stade Auguste Delaune">
+     <"36298" 48.879 2.3337 17 "9026" "Jean-Baptiste Pigalle - La Bruyere">
+     <"37903195" 48.848 2.2373 27 "21001" "Transvaal - Charles de Gaulle ">
+     <"102313219" 48.897 2.338 34 "18033" "Belliard - Damrémont">
+     <"100906707" 48.849 2.3918 43 "11010" "Boulets - Faubourg Saint-Antoine">
+     <"624177860" 48.88 2.2588 50 "16122" "Route de la Muette - Porte de Neuilly">
+     <"66491407" 48.854 2.4024 22 "20116" "Haies - Réunion">
+     <"27369223" 48.843 2.3203 17 "15002" "Maine - Antoine Bourdelle">
+     <"102336814" 48.827 2.2723 24 "21310" "Kléber - Gouverneur Général Eboué">
+     <"484423835" 48.89 2.2921 27 "23007" "Président Wilson - Jean Jaures">
+     <"54000618" 48.857 2.4044 19 "20016" "Pyrénées - Maraîchers">
+     <"653059879" 48.936 2.3471 40 "32015" "Gare RER de Saint-Denis">
+     <"210583589" 48.871 2.3612 33 "10010" "Place Jacques Bonsergent">
+     <"653050378" 48.852 2.3478 34 "5121" "Square René Viviani - Montebello">
+     <"15291968" 48.858 2.2775 15 "16043" "Place de Passy">
+     <"126354477" 48.884 2.3332 20 "18043" "Clichy - Place Blanche">
+     <"1002059045" 48.86 2.3441 27 "1117" "Pont Neuf - Rivoli">
+     <"15387809" 48.853 2.2685 62 "16027" "Mozart - Jasmin">
+     <"1002738770" 48.859 2.3466 27 "1120" "Lavandieres Sainte Opportune - Rivoli">
+     <"100918666" 48.863 2.367 21 "11043" "Place Pasdeloup">
+     <"213987795" 48.915 2.3576 40 "32004" "Wilson - Landy">
+     <"15397468" 48.851 2.2778 47 "16029" "Maison de Radio - France">
+     <"129101773" 48.89 2.3382 44 "18017" "Caulaincourt - Place Constantin Pecqueur">
+     <"84966359" 48.88 2.3214 26 "8019" "Naples - Rome">
+     <"42908639" 48.881 2.3408 29 "9017" "Lallier - Trudaine ">
+     <"125469898" 48.887 2.3532 33 "18008" "Square Léon">
+     <"35137730" 48.838 2.3605 50 "13103" "Hôpital Pitié Salpêtrière">
+     <"213952930" 48.906 2.3585 30 "32001" "Proudhon - Président Wilson">
+     <"54000549" 48.858 2.3238 16 "7008" "Villersexel - Saint-Germain">
+     <"85162552" 48.81 2.3627 45 "42703" "Fontainebleau - Edmond Michelet">
+     <"2515738489" 48.856 2.4104 20 "20201" "Eugène Reisz - Davout">
+     <"52329" 48.857 2.2822 37 "16112" "Chernoviz - Raynouard">
+     <"256561528" 48.826 2.375 44 "13046" "Eugène Oudiné - Dessous Des Berges">
+     <"452920451" 48.856 2.2153 24 "22102" "Mont Valérien - Michel Salles">
+     <"37920" 48.851 2.3759 34 "12004" "Traversière - Ledru-Rollin">
+     <"27364581" 48.828 2.3585 25 "13122" "Parc de Choisy">
+     <"54000588" 48.842 2.3195 66 "15003" "Gare Montparnasse - Vaugirard">
+     <"1020700136" 48.854 2.3639 20 "4110" "Neuve Saint-Pierre - Beautreillis">
+     <"100855693" 48.853 2.3316 26 "6032" "Sabot - Rennes">
+     <"42499285" 48.867 2.3158 43 "8001" "Petit Palais">
+     <"9931940126" 48.899 2.3524 38 "18202" "Diane Arbus">
+     <"54000586" 48.834 2.3176 32 "14030" "Pernety - Raymond Losserand">
+     <"102304517" 48.887 2.3041 46 "17022" "Pereire - Place de Wagram">
+     <"128889359" 48.857 2.3066 41 "7020" "Champ de Mars - Cler">
+     <"6298" 48.881 2.3524 24 "10033" "Gare du Nord - Saint-Vincent de Paul">
+     <"912377361" 48.847 2.3861 44 "12161" "Diderot - Reuilly">
+     <"54000546" 48.85 2.3379 33 "6017" "Sénat - Condé">
+     <"129042700" 48.875 2.3667 60 "10114" "Granges aux Belles - Hôpital Saint-Louis">
+     <"101761298" 48.84 2.2716 45 "15058" "Place du Moulin de Javel">
+     <"210737808" 48.884 2.3672 28 "10036" "Aqueduc - Villette">
+     <"256124192" 48.874 2.386 42 "19041" "Belleville - Pyrénées">
+     <"54000621" 48.863 2.387 56 "20030" "Ménilmontant - Père Lachaise">
+     <"88235134" 48.832 2.315 47 "14028" "Alésia - Suisses">
+     <"653127524" 48.904 2.2947 30 "21114" "Gustave Eiffel - Parc des Impressionnistes">
+     <"2515686699" 48.873 2.4014 25 "20137" "Borrégo - Gambetta">
+     <"259977414" 48.833 2.2859 22 "15107" "Palais des Sports">
+     <"82568336" 48.874 2.4278 29 "31704" "Jeanne Hornet - Girardot">
+     <"1021176825" 48.832 2.238 22 "21024" "Billancourt - Général Leclerc ">
+     <"54000611" 48.876 2.3794 26 "19023" "Manin - Simon Bolivar">
+     <"66491408" 48.881 2.425 32 "32603" "Calmette">
+     <"100872260" 48.847 2.3126 42 "7013" "Duroc - Place de Breteuil">
+     <"36151" 48.871 2.3383 17 "2013" "Favart - Italiens">
+     <"213848056" 48.827 2.2784 55 "21311" "Parvis Corentin Celton">
+     <"452936197" 48.834 2.4132 60 "12041" "Bois de Vincennes.">
+     <"54000545" 48.841 2.2781 65 "15059" "Parc André Citroën">
+     <"66505511" 48.867 2.3067 29 "8038" "François 1er - Montaigne">
+     <"224256188" 48.875 2.2964 29 "8056" "Beaujon - Wagram">
+     <"66491386" 48.861 2.3095 58 "7016" "Surcouf - Université">
+     <"1023083417" 48.899 2.3646 20 "18138" "Ney - Charles Hermite">
+     <"54000539" 48.854 2.3569 36 "4011" "Hôtel de Ville - Pont-Marie">
+     <"1025995767" 48.814 2.5097 21 "45001" "Hôtel de Ville de Champigny sur Marne">
+     <"101490103" 48.833 2.3369 23 "14006" "Saint-Jacques - Tombe Issoire">
+     <"82432573" 48.822 2.3689 50 "13041" "Porte d'Ivry">
+     <"1021553839" 48.883 2.3497 36 "9118" "Faubourg Poissonniere - Delta">
+     <"54000541" 48.858 2.3582 29 "4013" "Vieille du Temple - Francs Bourgeois">
+     <"653065577" 48.881 2.3584 30 "10163" "Gare du Nord - Demarquay">
+     <"1034242363" 48.865 2.443 34 "31023" "Place François Mitterand">
+     <"335780498" 48.865 2.3517 32 "2001" "Greneta - Sebastopol">
+     <"256403519" 48.883 2.3362 21 "18042" "Place Pigalle">
+     <"484387018" 48.877 2.4084 31 "20019" "Place du Maquis du Vercors">
+     <"544249939" 48.852 2.3267 49 "7101" "Raspail - Chomel">
+     <"1035816937" 48.893 2.3522 28 "18137" "Poissonniers - Nord">
+     <"66507229" 48.892 2.3001 26 "17116" "Reims - Porte d'Asnières">
+     <"27415012" 48.84 2.3789 66 "12108" "Bercy.">
+     <"263610599" 48.859 2.4274 45 "31013" "Centenaire - Sorins">
+     <"49772483" 48.887 2.3326 18 "18001" "Damrémont - Caulaincourt">
+     <"653066427" 48.933 2.356 26 "32018" "Franciade - Gabriel Péri">
+     <"129089749" 48.888 2.3169 31 "17016" "Brochant - Square des Batignolles ">
+     <"100770878" 48.85 2.353 25 "5019" "Poissy - Saint-Germain">
+     <"27415297" 48.892 2.3354 52 "18019" "Square Raymond Souplex">
+     <"54000607" 48.843 2.2831 19 "15063" "Convention - Saint-Charles">
+     <"13283986" 48.856 2.3753 34 "11003" "Keller - La Roquette">
+     <"100910836" 48.868 2.3727 48 "11034" "Parmentier - Fontaine au Roi">
+     <"6515" 48.872 2.3459 30 "9012" "Rougemont - Poissonnière">
+     <"41523981" 48.842 2.2987 32 "15020" "Mairie du 15ème">
+     <"1034247348" 48.857 2.478 34 "41206" "Place des Larris">
+     <"39536951" 48.824 2.3616 33 "13113" "Vistule - Choisy">
+     <"35089539" 48.883 2.3864 23 "19031" "Manin - Crimée">
+     <"27415169" 48.825 2.3678 23 "13114" "Nationale - Marcel Duchamp">
+     <"15412563" 48.835 2.2841 22 "15061" "Square Desnouettes">
+     <"30179848" 48.857 2.4087 27 "20017" "Saint-Blaise - Mouraud">
+     <"27363029" 48.856 2.3905 32 "11019" "Charonne - Philippe-Auguste">
+     <"484889494" 48.893 2.2889 26 "23008" "Hôtel de Ville de Levallois Perret">
+     <"27363256" 48.866 2.3344 25 "1016" "Thérèse - Opéra">
+     <"100902274" 48.873 2.3204 37 "8015" "Roquépine - Malesherbes">
+     <"15414455" 48.86 2.2808 34 "16016" "Paul Doumer - La Tour">
+     <"27415285" 48.862 2.3114 25 "7026" "Place de Finlande">
+     <"78348185" 48.904 2.3059 51 "21108" "Mairie de Clichy">
+     <"36003" 48.855 2.3399 23 "6014" "Pont de Lodi - Dauphine">
+     <"27415215" 48.82 2.3234 25 "14116" "Romain Rolland">
+     <"263732151" 48.853 2.43 33 "31018" "Gambetta - Michelet">
+     <"1036199130" 48.804 2.4437 21 "47002" "Les Juilliottes">
+     <"129161858" 48.907 2.3894 32 "33005" "République - Henri Barbusse">
+     <"653035822" 48.869 2.3469 28 "2110" "Jeûneurs - Mulhouse">
+     <"27414460" 48.868 2.3305 37 "1022" "Danielle Casanova - Place Vendôme">
+     <"76488849" 48.836 2.3723 36 "13019" "Fernand Braudel - Vincent Auriol ">
+     <"66505513" 48.87 2.3024 31 "8105" "François 1er - Lincoln">
+     <"129050965" 48.867 2.3655 19 "11046" "Place de la République - Voltaire">
+     <"66491368" 48.85 2.3435 50 "5030" "Sorbonne - Ecoles">
+     <"82419429" 48.851 2.3838 44 "11107" "Faidherbe - Dahomey">
+     <"349750111" 48.876 2.3473 30 "9113" "Bleue - Trévise">
+     <"52453" 48.868 2.411 25 "20103" "Le Vau - Maurice Bertaux">
+     <"210389577" 48.869 2.3325 17 "2014" "Daunou - Louis le Grand">
+     <"15401095" 48.84 2.2638 46 "16041" "Versailles - Claude Terrasse">
+     <"1055553396" 48.85 2.3645 15 "4109" "Mornay - Sully">
+     <"210394523" 48.869 2.3557 34 "3101" "Porte Saint-Martin">
+     <"1036226943" 48.777 2.2957 33 "23302" "Parc de Sceaux - Centre-Ville">
+     <"1056959071" 48.851 2.3838 43 "11048" "Place Mireille Havet">
+     <"66491371" 48.851 2.3421 33 "6031" "Pierre Sarrazin - Saint-Michel">
+     <"60667075" 48.87 2.3008 22 "8049" "Georges V - François 1er">
+     <"486833337" 48.866 2.345 33 "2101" "Bachaumont - Montmartre">
+     <"1055541632" 48.818 2.2458 42 "21952" "Place Tony de Graaff">
+     <"75313725" 48.831 2.3409 34 "14007" "Ferrus - Saint-Jacques">
+     <"606669250" 48.841 2.4097 40 "12154" "Square Georges Melies">
+     <"653069115" 48.875 2.3705 34 "10164" "Claude Vellefaux - Sambre et Meuse">
+     <"15383032" 48.865 2.3102 39 "8029" "Place du Canada">
+     <"54000561" 48.877 2.3398 32 "9015" "Lamartine - Faubourg Montmartre">
+     <"54001190" 48.883 2.3813 27 "19021" "Mairie du 19ème">
+     <"460558111" 48.863 2.3711 20 "11044" "Square du Bataclan">
+     <"82569809" 48.882 2.2837 22 "17104" "Jardin Marguerite Long">
+     <"11851037297" 48.821 2.2151 33 "23105" "Sèvres Rive Gauche">
+     <"266052390" 48.884 2.3765 28 "19030" "Melun - Jean Jaurès">
+     <"37952191" 48.84 2.2399 31 "21004" "Jean Jaurès - Reine">
+     <"34300292" 48.889 2.2642 25 "22002" "Argenson - Château">
+     <"82554786" 48.893 2.4124 30 "35008" "Place de l'Eglise - Pantin">
+     <"268976295" 48.828 2.3492 36 "13022" "Butte aux Cailles - Esperance">
+     <"27415444" 48.863 2.4097 30 "20045" "Louis Ganne - Davout">
+     <"84983562" 48.859 2.3866 52 "11110" "Roquette - Folie Regnault">
+     <"129081441" 48.856 2.2752 21 "16031" "Vignes - Boulainvilliers">
+     <"653073004" 48.834 2.4548 48 "12127" "Tremblay - Lac des Minimes">
+     <"1056986761" 48.832 2.3886 55 "12153" "Terroirs de France - Lheureux">
+     <"41610121" 48.841 2.3555 28 "5028" "Censier - Jardin des Plantes">
+     <"82566934" 48.89 2.3197 53 "17005" "Brochant - Clichy">
+     <"128936618" 48.871 2.314 36 "8032" "Matignon - Faubourg Saint-Honoré">
+     <"262607058" 48.822 2.2986 33 "22401" "Charles de Gaulle - Plateau de Vanves">
+     <"35106544" 48.825 2.3361 55 "14016" "René Coty - Parc Montsouris">
+     <"267976590" 48.834 2.3866 66 "12033" "François Truffaut - Saint Emilion">
+     <"1056965116" 48.828 2.4184 50 "12120" "Lac Daumesnil - Saint-Maurice">
+     <"54000630" 48.883 2.2774 25 "22012" "Madeleine Michelis - Roule">
+     <"54000567" 48.851 2.3931 34 "11012" "Montreuil - Voltaire">
+     <"1599921040" 48.885 2.3589 30 "18142" "Jessaint - Marx Dormoy">
+     <"129096696" 48.888 2.3536 13 "18014" "Léon - Doudeauville">
+     <"82590367" 48.833 2.2442 56 "21017" "Place Marcel Sembat">
+     <"82573931" 48.899 2.3366 37 "18035" "René Binet - Porte de Montmartre">
+     <"82436057" 48.821 2.3563 22 "13110" "Moulin de la Pointe">
+     <"43219958" 48.843 2.3244 39 "14127" "Odessa - Départ">
+     <"269953055" 48.823 2.392 29 "42011" "Quai Marcel Boyer - Victor Hugo">
+     <"82448637" 48.847 2.3071 46 "15009" "Suffren - Pérignon">
+     <"271540743" 48.897 2.2985 26 "23005" "Gare de Clichy-Levallois ">
+     <"452347778" 48.837 2.4018 21 "12010" "Daumesnil - Picpus">
+     <"13372702" 48.873 2.4079 33 "20117" "Saint-Fargeau - Mortier">
+     <"1599931563" 48.787 2.3519 30 "48009" "République - Auguste Perret">
+     <"15411223" 48.831 2.3362 24 "14125" "Dareau - Broussais">
+     <"85152599" 48.838 2.2408 46 "21009" "Le Corbusier - Jean Jaurès">
+     <"284711589" 48.856 2.3684 18 "4107" "Beaumarchais - Pas de la Mule">
+     <"357491025" 48.787 2.2279 22 "21951" "Place Centrale ">
+     <"30550" 48.873 2.3408 24 "9013" "Mairie du 9ème">
+     <"478593396" 48.862 2.4553 20 "31017" "Jean Moulin - Paul Doumer">
+     <"213675430" 48.823 2.3777 49 "13047" "Boutroux - Porte de Vitry">
+     <"462875227" 48.891 2.2951 25 "23006" "Jules Guesde - Alsace">
+     <"213693126" 48.885 2.3346 23 "18114" "Véron - Lepic">
+     <"363735875" 48.818 2.42 18 "44103" "Pont De Charenton">
+     <"265266148" 48.822 2.3132 24 "22403" "Pierre Brossolette - Adolphe Pinard">
+     <"457713145" 48.895 2.1958 43 "92005" "Gare de Nanterre Ville">
+     <"392576677" 48.857 2.2211 24 "22103" "Senard - Charles Blum">
+     <"11851327865" 48.899 2.3087 30 "21120" "Docteur Calmette - Martre">
+     <"338853596" 48.881 2.2716 26 "22009" "Charles de Gaulle - Orléans ">
+     <"1056995858" 48.835 2.3132 29 "14128" "Gergovie - Vercingétorix">
+     <"27414924" 48.874 2.3738 25 "10039" "Sambre et Meuse - Villette">
+     <"66491406" 48.847 2.4107 48 "20047" "Cours de Vincennes - Davout">
+     <"54000550" 48.858 2.3004 31 "7024" "Rapp - Place du Général Gouraud">
+     <"1056972307" 48.837 2.4405 50 "12125" "Pyramide - Parc Floral">
+     <"653217067" 48.876 2.5007 19 "31101" "Jules Guesde - Laennec">
+     <"1109534105" 48.876 2.4563 20 "31026" "Demi-Lune - Aristide Briand">
+     <"124390478" 48.847 2.416 17 "20004" "Commandant l'Herminier - Gallieni">
+     <"365181481" 48.893 2.327 53 "17001" "Guy Môquet - Saint-Ouen">
+     <"653076373" 48.839 2.4605 35 "12129" "Bois de Vincennes - Porte Jaune">
+     <"390075668" 48.82 2.3668 40 "13117" "Station Paris Basketball - Stade Georges Carpentier">
+     <"52456" 48.878 2.3959 28 "19113" "Pré Saint-Gervais - Lilas">
+     <"15310509" 48.878 2.3397 17 "9016" "Choron - Martyrs">
+     <"275968458" 48.897 2.4008 60 "35004" "Place du Président Salvador Allende">
+     <"213995665" 48.884 2.4034 30 "33104" "Square Edmond Pépin">
+     <"1056979685" 48.847 2.3669 27 "12150" "Bastille - Quai de la Rapée">
+     <"128928526" 48.881 2.3248 15 "8011" "Clapeyron - Moscou">
+     <"27415123" 48.826 2.3422 28 "13021" "Boussingault - Tolbiac">
+     <"287096529" 48.839 2.3704 43 "13020" "Paul Klee - Place Augusta Holmes">
+     <"97705710" 48.865 2.3732 39 "11031" "Jacquard - Ternaux ">
+     <"13242682" 48.882 2.4031 31 "19124" "Alexander Fleming - Belvédère">
+     <"278576043" 48.891 2.4065 18 "35011" "Honoré d'Estienne d'Ovres - Grilles">
+     <"213695073" 48.88 2.4009 33 "19036" "Hôpital Robert Debré">
+     <"284708999" 48.835 2.3416 38 "14113" "Santé - Arago">
+     <"653079520" 48.914 2.4126 19 "35015" "Averroès - Aimé Césaire">
+     <"653076393" 48.907 2.3645 35 "32021" "Place du Front Populaire - George Sand">
+     <"129069108" 48.84 2.3044 39 "15019" "Paul Barruel - Vaugirard">
+     <"272638713" 48.882 2.2713 28 "22010" "Charles de Gaulle - Louis-Philippe">
+     <"284787594" 48.831 2.3568 40 "13010" "Place d'Italie - Vincent Auriol">
+     <"30641281" 48.844 2.2774 21 "15060" "Place de la Montagne du Goulet">
+     <"54000593" 48.865 2.2927 40 "16007" "Longchamp - Place d'Iéna">
+     <"27362949" 48.879 2.3684 31 "10110" "Louis Blanc - Jemmapes">
+     <"1057003116" 48.84 2.2949 30 "15131" "Charles Lecocq - Lecourbe">
+     <"285726279" 48.881 2.3682 26 "10037" "Quai de Valmy">
+     <"285454061" 48.874 2.396 15 "20002" "Square de la rue Pixérécourt">
+     <"41587607" 48.84 2.3374 30 "5029" "Georges Bernanos - Port Royal">
+     <"7261" 48.878 2.3296 20 "9036" "Athènes - Clichy">
+     <"213936755" 48.858 2.4148 49 "31707" "Edouard Vaillant - Galliéni">
+     <"291354793" 48.844 2.3704 51 "12006" "Gare de Lyon - Van Gogh">
+     <"213685863" 48.833 2.2765 52 "15125" "Parc Suzanne Lenglen">
+     <"653062048" 48.879 2.3542 25 "10152" "Gare du Nord - Place de Valenciennes">
+     <"213686471" 48.863 2.2864 24 "16014" "Eylau - Trocadéro">
+     <"1062812659" 48.831 2.3438 60 "13515" "Auguste Blanqui - Glacière">
+     <"653079135" 48.816 2.3442 15 "13027" "Mazagran - Pierre de Coubertin">
+     <"38319086" 48.881 2.2948 37 "17029" "Pierre Demours - Laugier">
+     <"409364001" 48.823 2.3659 18 "13039" "Ivry - Simone Weil">
+     <"653129435" 48.899 2.2963 16 "21118" "Neuilly - Petit">
+     <"221032834" 48.871 2.3535 48 "10004" "Metz - Faubourg Saint-Denis">
+     <"27415524" 48.854 2.3303 25 "6024" "Saint-Germain-des-Prés">
+     <"124622630" 48.86 2.3711 38 "11103" "Pelée - Alphonse Baudin">
+     <"594942659" 48.88 2.3545 20 "10153" "Gare du Nord - Denain">
+     <"96512532" 48.875 2.3229 18 "8008" "Joseph Sansboeuf - Saint Lazare">
+     <"362178041" 48.812 2.3258 28 "21203" "Place Jules Ferry">
+     <"100783424" 48.841 2.3538 69 "5034" "Censier - Santeuil">
+     <"422639331" 48.885 2.2677 31 "22013" "Mairie de Neuilly sur Seine">
+     <"42541542" 48.841 2.3233 33 "14101" "Gare Montparnasse - Edgar Quinet">
+     <"1057061349" 48.897 2.3039 32 "21115" "Chancé Milly - Cimetière Communal Sud">
+     <"292871105" 48.88 2.3888 21 "19025" "Botzaris - Crimée">
+     <"38280" 48.866 2.2859 17 "16009" "Saint-Didier - Raymond Poincaré">
+     <"653125838" 48.827 2.2342 29 "21029" "Cours de l'Ile Seguin - Parc Billancourt">
+     <"129121741" 48.869 2.381 50 "20039" "Belleville - Couronnes">
+     <"476053320" 48.852 2.3018 26 "7111" "Ecole Militaire - Place Joffre">
+     <"404947652" 48.849 2.2819 33 "15072" "Place Fernand Forest">
+     <"129142199" 48.825 2.2872 30 "21708" "Marcel Yol - Jullien">
+     <"210584503" 48.875 2.3568 15 "10017" "Gare de l'Est - Fidélité">
+     <"27363558" 48.826 2.3446 28 "13048" "Wurtz - Tolbiac">
+     <"214109662" 48.849 2.475 20 "41210" "Hôtel de ville de Fontenay-sous-Bois">
+     <"653122771" 48.786 2.33 24 "42304" "Marc Sangnier - Division Leclerc">
+     <"35147530" 48.866 2.3711 23 "11109" "Pierre Levée - Fontaine Timbaud">
+     <"1057081237" 48.818 2.2609 24 "21316" "Cimetière d'Issy-les-Moulineaux">
+     <"101756482" 48.838 2.2956 48 "15052" "Convention - Vaugirard">
+     <"1057179405" 48.864 2.4358 29 "31021" "Résistance - Hoche">
+     <"653135400" 48.801 2.4021 26 "44002" "Paul Vaillant-Couturier - Gare RER">
+     <"213689228" 48.853 2.2629 42 "16115" "Raffet - Montmorency">
+     <"129079313" 48.848 2.2966 44 "15123" "Commerce - Letellier">
+     <"129135654" 48.823 2.2686 31 "21307" "Victor Cresson - Telles de la Poterie">
+     <"653080383" 48.825 2.3886 48 "13121" "Bruneseau - Quai d'Ivry">
+     <"1057039016" 48.842 2.2399 20 "21030" "Fessart - Château">
+     <"1057045129" 48.831 2.252 40 "21031" "Cimetière de Boulogne-Billancourt">
+     <"1190800638" 48.853 2.2804 22 "16024" "Ranelagh - Maison de la Radio">
+     <"303102719" 48.829 2.3014 11 "15043" "Brancion - Lefebvre">
+     <"27363277" 48.878 2.2885 38 "17039" "Place Saint-Ferdinand">
+     <"6295" 48.85 2.3525 23 "5107" "Pontoise - La Tournelle">
+     <"303452950" 48.791 2.2871 34 "22604" "Hôtel de Ville de Fontenay-aux-Roses">
+     <"54000617" 48.854 2.4121 20 "20009" "Docteurs Déjérine - Pte de Montreuil">
+     <"213691137" 48.875 2.2938 30 "17033" "Carnot - Général Lanrezac">
+     <"653131074" 48.815 2.3283 25 "21213" "Vanne - Général de Gaulle">
+     <"308082350" 48.877 2.2835 31 "16101" "Malakoff - Place de la Porte Maillot">
+     <"302725495" 48.819 2.2922 51 "21702" "Gare SNCF Vanves-Malakoff">
+     <"653126035" 48.786 2.3388 20 "42305" "Vanne - Saussaies">
+     <"210745258" 48.868 2.3779 47 "11032" "Jean-Pierre Timbaud - Vaucouleurs">
+     <"37921892" 48.873 2.3593 25 "10012" "Vinaigriers - Magenta">
+     <"457834134" 48.878 2.279 29 "16003" "André Maurois - Joseph et Marie Hackin">
+     <"36473" 48.876 2.3436 19 "9101" "Cadet - La Fayette">
+     <"653123610" 48.824 2.2418 35 "21028" "Pierre Lefaucheux - Traversière">
+     <"35101194" 48.815 2.3981 30 "42003" "Place de l'Insurrection d'Août 1944 ">
+     <"54000615" 48.852 2.4015 50 "20007" "Buzenval - Avron">
+     <"135806005" 48.885 2.4357 17 "32301" "Mairie de Romainville">
+     <"66491395" 48.843 2.3847 40 "12043" "Daumesnil - Hébrard">
+     <"82550543" 48.848 2.2736 55 "16030" "Place de Barcelone - Mirabeau">
+     <"653135378" 48.817 2.3238 36 "21219" "Amaury Duval - Gabriel Péri">
+     <"54000562" 48.875 2.356 30 "10018" "Square Alban Satragne">
+     <"402212574" 48.883 2.2649 28 "22008" "Charles de Gaulle - Graviers">
+     <"1057184567" 48.87 2.4502 35 "31025" "Paul Signac - Aristide Briand">
+     <"1057319366" 48.837 2.3741 30 "13128" "Quai de la Gare - Pont de Bercy">
+     <"34235349" 48.842 2.3485 28 "5014" "Jean Calvin - Tournefort">
+     <"210751059" 48.835 2.3582 16 "13011" "Hôpital - Campo-Formio">
+     <"1057203651" 48.919 2.3621 44 "32011" "Stade de France">
+     <"453172172" 48.817 2.3602 13 "13033" "Porte d'Italie">
+     <"478385490" 48.807 2.354 30 "42701" "Charles Gide - Fort de Bicêtre ">
+     <"102326776" 48.861 2.4057 23 "20108" "Jardin de l'Hospice Debrousse">
+     <"213706622" 48.861 2.4092 23 "20122" "Vitruve - Davout">
+     <"213686749" 48.857 2.2644 36 "16020" "Place de la Porte de Passy">
+     <"1057302263" 48.83 2.3651 18 "13126" "Place Nationale - Château-des-Rentiers">
+     <"82572699" 48.893 2.3363 30 "18027" "Damrémont - Ordener">
+     <"311552027" 48.866 2.3653 45 "11038" "Temple - Charlot">
+     <"27269170" 48.853 2.3522 21 "4003" "Quai aux Fleurs - Pont Saint-Louis">
+     <"82375611" 48.882 2.3199 44 "8020" "Batignolles - Beudant">
+     <"443402852" 48.884 2.3132 48 "17015" "Place de Lévis">
+     <"1062162270" 48.906 2.2354 20 "22501" "Théâtre de La Garenne">
+     <"38192" 48.849 2.2993 34 "15023" "La Motte-Picquet - Grenelle">
+     <"84958519" 48.854 2.3494 31 "4001" "Arcole - Notre-Dame">
+     <"559980654" 48.87 2.301 24 "8549" "George V - Christophe Colomb">
+     <"458086607" 48.898 2.2849 28 "23003" "Président Wilson - Baudin">
+     <"98187918" 48.856 2.3533 60 "4016" "Lobau - Hôtel de Ville">
+     <"7247" 48.858 2.3904 23 "11021" "Charonne - Pierre Bayle">
+     <"653081846" 48.822 2.3291 30 "14131" "Jourdan - Monticelli">
+     <"213689815" 48.89 2.3036 36 "17023" "Porte d'Asnières">
+     <"443198808" 48.896 2.3744 37 "19108" "Gaston Tessier - Rosa Parks RER">
+     <"620676855" 48.787 2.3977 22 "44007" "Camille Groult - Guy Môquet">
+     <"13191324" 48.844 2.3334 33 "6008" "Assas - Luxembourg">
+     <"27415150" 48.83 2.3543 23 "13106" "Bobillot - Paulin Mery">
+     <"210738704" 48.87 2.3511 25 "10105" "Mazagran - Bonne Nouvelle">
+     <"102745622" 48.81 2.344 28 "42501" "Raspail - Albert Schweitzer">
+     <"213999554" 48.91 2.3996 20 "35001" "Jean Jaurès - Ouvrières Pivéreuses">
+     <"213677219" 48.822 2.3504 21 "13109" "Brillat-Savarin - Küss">
+     <"6294" 48.855 2.3474 23 "4002" "Marché aux fleurs">
+     <"85155919" 48.815 2.3209 31 "21204" "Estienne d'Orves - Henri Ginoux">
+     <"1062238429" 48.825 2.3946 17 "42209" "Place de l'Europe - Quai de Bercy">
+     <"369011098" 48.846 2.4208 22 "43001" "Paris - Laitières">
+     <"102343591" 48.796 2.3173 31 "22206" "Louis Pasteur - Albert Petit">
+     <"82565383" 48.896 2.3279 45 "17003" "Jacques Kellner - Saint-Ouen">
+     <"653134004" 48.817 2.3193 26 "21217" "Louis Rolland - République">
+     <"27415246" 48.846 2.2786 45 "15064" "Javel - André Citroën">
+     <"389788858" 48.848 2.2843 74 "15030" "Emeriau - Beaugrenelle">
+     <"1056947780" 48.881 2.3499 30 "9114" "Faubourg Poissonnière - Dunkerque">
+     <"38327" 48.868 2.2815 41 "16011" "Victor Hugo - La Pompe">
+     <"100925033" 48.846 2.3741 45 "12007" "Gare de Lyon - Chalon">
+     <"109609241" 48.887 2.174 32 "25001" "Colmar - Victor Hugo">
+     <"101491821" 48.828 2.3262 41 "14010" "Jean Moulin - Place Victor et Hélène Basch">
+     <"82562496" 48.894 2.418 21 "35007" "Benjamin Delessert - Jean Lolive">
+     <"235197110" 48.803 2.4275 46 "47001" "Place de la Gare">
+     <"417088374" 48.815 2.4593 39 "44101" "Place Mongolfier">
+     <"129145892" 48.857 2.4323 49 "31007" "Paris - Désiré Préaux">
+     <"439750210" 48.82 2.3593 26 "13032" "Italie - Jardin Joan Miro">
+     <"214097180" 48.807 2.3369 24 "41101" "Paul Doumer - Stalingrad">
+     <"42720305" 48.88 2.3145 38 "8037" "Monceau - Malesherbes ">
+     <"653205656" 48.91 2.2391 28 "27004" "Gare de la Garenne-Colombes">
+     <"653147618" 48.932 2.289 27 "22303" "Lucien Lanternier - Le Luth">
+     <"335989765" 48.895 2.36 49 "18038" "Rond-Point de la Chapelle">
+     <"417623119" 48.88 2.2072 20 "92001" "Mairie de quartier du Plateau - Mont-Valérien">
+     <"54000632" 48.898 2.2938 36 "23004" "Paul Vaillant-Couturier - Victor Hugo">
+     <"428088564" 48.85 2.452 25 "43010" "La Jarry - Place Diderot">
+     <"365886904" 48.886 2.2933 37 "17107" "Berthier - Place Stuart Merril">
+     <"85015750" 48.875 2.2843 38 "16002" "Pergolèse - Malakoff">
+     <"27064639" 48.84 2.3154 21 "15004" "Vaugirard - Pasteur">
+     <"102722579" 48.892 2.2843 27 "23010" "Voltaire - Anatole France">
+     <"653083263" 48.837 2.2741 39 "15057" "Lucien Bossoutrot - Général Martial Vallin">
+     <"39151458" 48.885 2.3497 20 "18007" "Goutte d'or - Barbès">
+     <"213682190" 48.843 2.3126 43 "15005" "Place Jacques et Thérèse Tréfouël">
+     <"468354634" 48.891 2.3834 30 "19128" "Quai de l'Oise - Aisne">
+     <"379063990" 48.819 2.3012 22 "22408" "Place du 14 Juillet">
+     <"221036108" 48.854 2.3961 47 "11017" "Charonne - Bureau">
+     <"213692227" 48.885 2.3441 36 "18006" "Square Louise Michel">
+     <"75641607" 48.846 2.3243 32 "6027" "Blaise-Desgoffe - Vaugirard">
+     <"653137566" 48.801 2.2622 33 "21401" "Mairie de Clamart">
+     <"213674686" 48.83 2.3691 36 "13044" "Place Jeanne d'Arc">
+     <"38522" 48.882 2.3332 25 "9027" "Douai - Pierre Fontaine">
+     <"488889101" 48.896 2.3179 33 "17108" "Bessières - Porte de Clichy">
+     <"653083675" 48.854 2.4703 20 "41205" "Maréchal Joffre - Verdun">
+     <"266422568" 48.86 2.3501 23 "4020" "Place Edmond Michelet">
+     <"488872892" 48.847 2.2953 42 "15022" "Emile Zola - Fondary">
+     <"488800137" 48.871 2.2937 26 "16001" "Portugais - Kléber">
+     <"1057730786" 48.86 2.346 20 "1021" "Halles - Bourdonnais">
+     <"131094294" 48.918 2.3936 30 "33015" "Charles Tillon - Cimetière Communal">
+     <"129016495" 48.873 2.3353 53 "9024" "Taitbout - La Fayette">
+     <"1057335613" 48.834 2.2657 30 "15311" "Quai du Président Roosevelt - Pont Aval">
+     <"491687415" 48.896 2.4095 22 "35006" "Delizy - Louis Nadot">
+     <"82455731" 48.846 2.3018 62 "15011" "Cambronne - Villa Croix Nivert">
+     <"39202840" 48.882 2.3405 20 "18041" "Rochechouart - Martyrs">
+     <"653141822" 48.894 2.2666 23 "22015" "Île de la Jatte">
+     <"488980540" 48.845 2.3965 34 "12018" "Saint-Mandé - Fabre d'Eglantine">
+     <"54000599" 48.89 2.3174 24 "17111" "Lemercier - Cardinet">
+     <"1057221951" 48.779 2.4007 28 "44016" "Balzac - Olympes de Gouges">
+     <"653137567" 48.79 2.3895 22 "44005" "Place Saint-Just">
+     <"54000600" 48.885 2.3109 33 "17119" "Toqueville - Cardinet">
+     <"15212034" 48.883 2.3465 21 "9004" "Gérando - Rochechouart">
+     <"494183852" 48.857 2.3094 40 "7017" "La Motte-Picquet - La Tour Maubourg">
+     <"1057399900" 48.943 2.2487 25 "51002" "Placette Grégoire Collas">
+     <"559595472" 48.855 2.2952 23 "15071" "Suffren - Champ de Mars">
+     <"210395439" 48.861 2.3526 26 "4021" "Centre Georges Pompidou">
+     <"491932748" 48.879 2.412 39 "32601" "Porte des Lilas - Faidherbe">
+     <"1057329581" 48.851 2.2847 24 "15102" "Square Bela Bartok">
+     <"1057378487" 48.915 2.4035 22 "33016" "Fort d'Aubervilliers">
+     <"1057737444" 48.838 2.3821 51 "12026" "Place Ginette Hamelin">
+     <"82336035" 48.853 2.3345 18 "6012" "Saint-Germain - Ciseaux">
+     <"1314450240" 48.931 2.2604 20 "27005" "Gare du Stade">
+     <"2515636592" 48.892 2.3092 18 "17123" "Mstislav Rostropovitch - Berthier">
+     <"100923502" 48.85 2.3789 29 "12005" "Crozatier - Faubourg Saint-Antoine">
+     <"255322397" 48.83 2.3503 26 "13009" "Auguste Blanqui - Corvisart">
+     <"653139063" 48.867 2.2259 52 "21501" "Pont de Suresnes">
+     <"1057091571" 48.827 2.2607 28 "21319" "Esplanade du Foncet - Camille Desmoulins">
+     <"210582231" 48.877 2.3305 25 "9102" "Londres - Place d'Estienne d'Orves">
+     <"653087180" 48.884 2.3287 32 "18044" "Clichy - Douai">
+     <"312870435" 48.882 2.3463 16 "9006" "Dunkerque - Trudaine">
+     <"1057354004" 48.825 2.2594 29 "21314" "Chemin de Bretagne">
+     <"129106450" 48.894 2.3477 37 "18030" "Joseph Dijon - Ornano">
+     <"1057405802" 48.898 2.2183 30 "92006" "Place Nelson Mandela">
+     <"27414544" 48.843 2.3524 21 "5024" "Place Monge">
+     <"213894629" 48.856 2.4264 45 "31005" "Square Denise Buisson">
+     <"129059516" 48.84 2.4005 44 "12038" "Picpus - Louis Braille">
+     <"1227051850" 48.83 2.3436 40 "13516" "Glacière - Soeur Catherine Marie">
+     <"1237624420" 48.824 2.3159 30 "14137" "Maurice d'Ocagne - General Maudhuy">
+     <"1057748427" 48.838 2.4044 43 "12155" "Rottembourg - Général Michel Bizot">
+     <"285001735" 48.871 2.3415 39 "2108" "Vivienne - Montmartre">
+     <"54000560" 48.874 2.3445 20 "9011" "Geoffroy - Marie">
+     <"1062742831" 48.854 2.3044 38 "7109" "Place Joffre - Frédéric le Play">
+     <"101017160" 48.822 2.3474 32 "13025" "Place de Rungis">
+     <"100933541" 48.842 2.3897 27 "12028" "Vivaldi - Antoine-Julien Hénard">
+     <"36391" 48.87 2.3263 22 "9034" "Godot de Mauroy - Madeleine">
+     <"100934967" 48.835 2.3971 33 "12035" "Madagascar - Meuniers">
+     <"437741660" 48.859 2.3477 43 "1003" "Saint-Denis - Rivoli">
+     <"1062783107" 48.843 2.3619 30 "5115" "Buffon - Jardin des Plantes">
+     <"15309045" 48.877 2.3545 15 "10021" "Marché Saint-Quentin">
+     <"653086121" 48.846 2.4724 34 "41211" "Louis Xavier de Ricard - Ancienne Mairie">
+     <"653139897" 48.783 2.3813 27 "44011" "Lebrun - Colonel Fabien ">
+     <"476155906" 48.855 2.3612 26 "4010" "Saint-Antoine Sévigné">
+     <"101011685" 48.848 2.3764 26 "12101" "Charenton - Prague">
+     <"27415547" 48.825 2.2926 25 "21707" "Square Etienne Jarousse">
+     <"54000543" 48.859 2.3518 32 "4019" "Cloître Saint-Merri - Renard">
+     <"1015246367" 48.872 2.3002 25 "8116" "Champs-Elysees - Bassano">
+     <"1057765913" 48.846 2.3132 40 "15129" "Hôpital Necker">
+     <"1062704564" 48.864 2.3524 42 "3102" "Bourg l'Abbé - Saint-Martin">
+     <"221043930" 48.857 2.3984 36 "20015" "Bagnolet - Orteaux">
+     <"1057234527" 48.947 2.2569 40 "51001" "Gare d'Argenteuil">
+     <"49498164" 48.878 2.3183 14 "8027" "Mairie du 8ème ">
+     <"76121343" 48.836 2.3021 12 "15039" "Abbé Groult - Convention">
+     <"1057072168" 48.819 2.2789 24 "21315" "Jules Guesdes - Général de Gaulle">
+     <"1062685145" 48.868 2.3381 17 "2112" "Bibliothèque Nationale - Richelieu">
+     <"1056715831" 48.852 2.3355 21 "6022" "Marché Saint-Germain">
+     <"101742129" 48.845 2.3179 38 "15006" "Cherche-Midi - Hôpital Necker">
+     <"1057360420" 48.783 2.2429 27 "21402" "Place Aimé Césaire">
+     <"49117995" 48.88 2.3452 20 "9007" "Condorcet - Turgot">
+     <"214119792" 48.803 2.4253 20 "41403" "Gare RER - Malleret-Joinville">
+     <"1057366813" 48.824 2.2131 32 "23102" "Hôtel de Ville de Sèvres">
+     <"37504995" 48.823 2.2497 32 "21303" "Jean Monnet - Iles">
+     <"131908132" 48.918 2.3727 20 "33014" "Parc Eli Lotar">
+     <"27363337" 48.857 2.3707 33 "11033" "Bréguet - Sabin">
+     <"125811629" 48.829 2.3744 44 "13052" "Leredde - Tolbiac">
+     <"102307005" 48.881 2.3165 23 "17024" "Villiers - Batignolles">
+     <"1057753858" 48.846 2.285 37 "15127" "Place Charles Michels">
+     <"452341449" 48.826 2.3602 26 "13035" "Choisy - Tolbiac">
+     <"54000590" 48.843 2.2952 47 "15036" "Croix Nivert - Square Saint-Lambert">
+     <"27359295" 48.852 2.4156 30 "20105" "Benoît Frachon - République">
+     <"81212212" 48.884 2.4083 24 "33103" "Jean Jaurès - Jules Jacquemin">
+     <"653087914" 48.815 2.4122 27 "41401" "Marne - Charles de Gaulle">
+     <"41219552" 48.855 2.3335 23 "6002" "Saint-Benoît - Jacob">
+     <"101738550" 48.834 2.3215 22 "14031" "Didot - Place de Moro-Giafferi">
+     <"54000622" 48.853 2.4105 28 "20044" "Davout - Volga">
+     <"82339935" 48.863 2.2687 36 "16019" "Porte de la Muette">
+     <"27414713" 48.915 2.376 30 "33012" "Landy - Heurtault">
+     <"54000564" 48.875 2.3523 31 "10019" "Paradis - Hauteville">
+     <"13912564" 48.835 2.3668 25 "13018" "Bruant - Vincent Auriol">
+     <"42907187" 48.862 2.3727 25 "11011" "Richard Lenoir - Voltaire">
+     <"58311330" 48.827 2.3319 24 "14011" "Place des Droits de l'Enfant">
+     <"100967498" 48.85 2.4556 20 "41203" "Stalingrad - Rigollots">
+     <"39149651" 48.854 2.3697 53 "11001" "Richard Lenoir - Place de la Bastille">
+     <"82468690" 48.837 2.3072 56 "15018" "Dutot - Place Alleray">
+     <"43247025" 48.887 2.3668 20 "18039" "Jardins d'Eole">
+     <"70903158" 48.87 2.2851 25 "16005" "Raymond Poincaré - Place Victor Hugo">
+     <"37879071" 48.892 2.3171 34 "17009" "Paul Bodin - Clichy">
+     <"54000587" 48.833 2.3255 32 "14032" "Mairie du 14ème">
+     <"41464928" 48.845 2.311 62 "15008" "Sèvres - Lecourbe">
+     <"54000619" 48.865 2.4083 33 "20022" "Porte de Bagnolet">
+     <"38060" 48.844 2.3226 43 "15001" "Gare Montparnasse - Arrivée">
+     <"101008598" 48.84 2.3946 42 "12036" "Reuilly - Place Felix Eboue">
+     <"82332239" 48.849 2.3473 36 "5007" "Ecoles - Carmes">
+     <"75525462" 48.83 2.3232 45 "14026" "Plantes - Moulin Vert">
+     <"15462861" 48.871 2.2811 31 "16105" "Crevaux - Bugeaud">
+     <"95845524" 48.871 2.3587 18 "10008" "Cité Riverin - Château d'Eau">
+     <"38407" 48.869 2.2744 42 "16012" "Flandrin - Longchamp">
+     <"82554449" 48.845 2.2569 60 "16036" "Porte Molitor">
+     <"39535340" 48.816 2.3505 30 "42505" "Charles Frérot - Albert Guilpin">
+     <"1062797394" 48.869 2.3244 26 "8117" "Place de la Madeleine - Royale">
+     <"54000570" 48.847 2.4001 36 "12015" "Place de la Nation - Picpus">
+     <"265201872" 48.848 2.3659 52 "4006" "Bourdon - Pont Morland">
+     <"1057373549" 48.92 2.3146 22 "26004" "Gare RER les Grésillons">
+     <"653089942" 48.895 2.353 28 "18139" "Poissonniers - Championnet">
+     <"128841079" 48.866 2.3252 40 "1020" "Cambon - Rivoli">
+     <"220504949" 48.863 2.3498 33 "1006" "Grande Truanderie - Saint-Denis">
+     <"15308712" 48.854 2.3848 23 "11112" "Jules Vallès - Charonne">
+     <"7295" 48.842 2.3316 15 "6010" "Chevreuse - Montparnasse">
+     <"27296946" 48.899 2.3753 30 "19110" "Square Claude Bernard">
+     <"653143563" 48.797 2.3021 30 "22201" "Henri Ravera - Gabriel Péri">
+     <"443153677" 48.86 2.3611 36 "3008" "Perle - Vieille du Temple">
+     <"66505510" 48.842 2.3501 63 "5015" "Epée de Bois - Mouffetard">
+     <"66491391" 48.873 2.3701 32 "10032" "Claude Vellefaux - Hôpital Saint-Louis">
+     <"1062256852" 48.789 2.3684 20 "48004" "Maxime Gorki - Louis Aragon">
+     <"1062245074" 48.82 2.4847 27 "45002" "Roger Salengro - Général de Gaulle">
+     <"201923447" 48.838 2.2578 38 "16042" "Murat - Porte de Saint-Cloud">
+     <"1057758764" 48.834 2.2895 37 "15128" "Cadix - Hameau">
+     <"653144717" 48.775 2.3737 25 "44014" "Camille Risch - Paul Armangot">
+     <"42275164" 48.84 2.3973 36 "12037" "Reuilly - Daumesnil">
+     <"125623876" 48.882 2.309 20 "17019" "Phalsbourg - Villiers">
+     <"85031184" 48.845 2.2621 52 "16037" "Molitor - Michel-Ange">
+     <"97824043" 48.81 2.4433 20 "47003" "Charentonneau - Maisons Alfort">
+     <"66491379" 48.885 2.3387 12 "18004" "Place des Abbesses">
+     <"39169029" 48.869 2.3898 24 "20034" "Sorbier - Ménilmontant">
+     <"35600927" 48.864 2.2766 35 "16013" "Mairie du 16ème">
+     <"100868590" 48.854 2.3196 26 "7012" "Cité Vaneau">
+     <"54000616" 48.853 2.4059 32 "20008" "Pyrénées - Avron">
+     <"30730" 48.848 2.3998 36 "20001" "Place de la Nation - Charonne">
+     <"66491381" 48.896 2.3334 32 "18034" "Leibniz - Jean Dollfus">
+     <"49094984" 48.843 2.3377 37 "6104" "Herschel - Observatoire">
+     <"77773" 48.843 2.3973 28 "12019" "Gare de Reuilly - Picpus">
+     <"15463487" 48.874 2.2815 27 "16102" "Pergolèse - Marbeau">
+     <"52518" 48.862 2.4111 22 "20104" "Louis Lumière.">
+     <"1062874070" 48.82 2.3397 39 "14135" "Jourdan - Cité Universitaire">
+     <"82574198" 48.824 2.2723 41 "21309" "Mairie d'Issy">
+     <"123546861" 48.878 2.3699 27 "10038" "Place du Colonel Fabien">
+     <"27415389" 48.864 2.3982 29 "20024" "Gambetta - Père Lachaise">
+     <"27414902" 48.884 2.3599 21 "10034" "Louis Blanc - La Chapelle">
+     <"1062802530" 48.844 2.4104 24 "12156" "Niger - Soult">
+     <"653091206" 48.9 2.3443 40 "18140" "Porte de Clignancourt - Ney">
+     <"653042678" 48.851 2.3563 25 "4108" "Quai de Béthune - Pont de la Tournelle">
+     <"75345531" 48.864 2.3478 16 "1007" "Turbigo - Française">
+     <"66505516" 48.835 2.3486 46 "13005" "Cordelières - Arago">
+     <"49341735" 48.889 2.3708 42 "19002" "Centquatre">
+     <"15309674" 48.877 2.3458 21 "9009" "Square Montholon">
+     <"27364642" 48.835 2.3237 27 "14103" "Maine - Liancourt">
+     <"66491367" 48.863 2.3543 17 "3010" "Beaubourg - Michel-le-Comte">
+     <"129023855" 48.881 2.3282 24 "9037" "Parme - Clichy">
+     <"54000554" 48.877 2.3224 32 "8110" "Gare Saint-Lazare - Stockholm">
+     <"2515672078" 48.886 2.3896 23 "19201" "Petit - Georges Thill">
+     <"35317080" 48.901 2.3887 22 "19010" "Emile Reynaud - Porte de la Villette ">
+     <"653146273" 48.922 2.2952 22 "22301" "Chausson - Gabriel Péri">
+     <"1062882947" 48.838 2.3089 21 "15132" "Bargue -  Dutot">
+     <"653091677" 48.789 2.4285 24 "41405" "Place de l'Europe - Alfortville">
+     <"35472299" 48.85 2.4063 12 "20006" "Pyrénées - Plaine">
+     <"1805255023" 48.83 2.2314 30 "21026" "Sèvres - Général Leclerc">
+     <"66489651" 48.871 2.3341 33 "2015" "Louis le Grand - Italiens">
+     <"1057207064" 48.946 2.3638 24 "32013" "Saint-Denis - Université">
+     <"39626277" 48.849 2.3705 16 "12002" "Lacuée - Lyon">
+     <"1062982815" 48.819 2.2295 20 "21953" "Gare de Bellevue">
+     <"128890772" 48.859 2.3037 28 "7021" "Bosquet - Saint-Dominique">
+     <"266963426" 48.858 2.3679 51 "3001" "Beaumarchais - Saint-Gilles">
+     <"7268" 48.834 2.3947 31 "12112" "Charenton - Jardiniers">
+     <"213687475" 48.873 2.2915 22 "16103" "Traktir - Foch">
+     <"128932790" 48.873 2.2978 29 "8028" "Arsène Houssaye - Champs-Elysées">
+     <"129152818" 48.857 2.4228 22 "31709" "Place de la Fraternité">
+     <"27313492" 48.873 2.3542 28 "10006" "Petites Ecuries - Faubourg Saint-Denis">
+     <"338824395" 48.869 2.3623 17 "10011" "Bourse du Travail">
+     <"100760396" 48.866 2.3564 31 "3011" "Turbigo - Réaumur">
+     <"210585225" 48.879 2.3584 20 "10027" "Dunkerque - Alsace">
+     <"82396562" 48.872 2.3576 19 "10009" "Mairie du 10ème">
+     <"312165511" 48.868 2.3649 38 "11037" "Faubourg Du Temple - Republique">
+     <"1074095810" 48.878 2.2234 22 "21506" "Maurice Payret-Dortail">
+     <"128880156" 48.857 2.354 25 "4103" "Archives - Rivoli">
+     <"27415411" 48.878 2.411 23 "20029" "Frères Flavien - Porte des Lilas">
+     <"210387163" 48.866 2.3508 32 "2003" "Saint-Denis - Réaumur">
+     <"653150828" 48.904 2.2451 20 "22503" "Joffre - Aigle">
+     <"443654970" 48.864 2.3476 37 "1102" "Française - Etienne Marcel">
+     <"1063971944" 48.845 2.3395 29 "5122" "Saint-Michel - Luxembourg">
+     <"1057290902" 48.847 2.4105 45 "12020" "Cours de Vincennes - Soult">
+     <"15153595" 48.833 2.3624 33 "13017" "Nationale - Vincent Auriol">
+     <"54000465" 48.865 2.3462 28 "2002" "Etienne Marcel - Montorgueil">
+     <"471094898" 48.835 2.2957 25 "15111" "Olivier de Serres - Leriche">
+     <"66499894" 48.866 2.3596 33 "3005" "Sainte-Elisabeth - Turbigo">
+     <"100759356" 48.865 2.3451 16 "2005" "Montmartre - Etienne Marcel">
+     <"1062911162" 48.877 2.3918 29 "19129" "Solitaires - Place des Fêtes">
+     <"42341698" 48.867 2.3445 44 "2021" "Cléry - Montmartre">
+     <"653187900" 48.904 2.2734 40 "24006" "Adolphe Lalyre - Armand Silvestre">
+     <"128874528" 48.862 2.3567 19 "3009" "Temple - Haudriettes">
+     <"1062827573" 48.829 2.3286 30 "14132" "Bézout - Général Leclerc">
+     <"54000542" 48.859 2.3559 29 "4014" "Blancs-Manteaux - Archives">
+     <"1074187051" 48.91 2.2882 30 "26005" "Hôtel de Ville d'Asnières sur Seine">
+     <"331153695" 48.867 2.3536 25 "3012" "Square Emile - Chautemps">
+     <"1074142878" 48.809 2.1881 20 "23702" "Hôtel de Ville de Chaville">
+     <"11874261013" 48.92 2.2978 20 "22306" "Place du 17 Octobre">
+     <"213680246" 48.827 2.3131 35 "14022" "Didot - Mariniers">
+     <"1064000778" 48.842 2.367 55 "13125" "Gare d'Austerlitz - Pont Charles de Gaulle">
+     <"1074060095" 48.883 2.3747 28 "19012" "Lally-Tollendal - Armand Carrel">
+     <"80419347" 48.849 2.4219 27 "31001" "Lagny - Auguste Blanqui">
+     <"1063000561" 48.874 2.2242 20 "21507" "Gardenat-Lapostol - Velettes">
+     <"213680553" 48.824 2.3078 52 "14023" "Adolphe Pinard - Victor Hugo">
+     <"1063012692" 48.906 2.2394 20 "22502" "Kléber - National">
+     <"54000538" 48.864 2.3618 32 "3006" "Mairie du 3ème">
+     <"82499609" 48.842 2.286 36 "15062" "Convention - Lourmel">
+     <"1064008882" 48.887 2.3491 20 "18136" "Poulet - Barbès">
+     <"653152142" 48.906 2.2536 20 "22504" "Château - République">
+     <"380891087" 48.852 2.3681 35 "4007" "Place de la Bastille - Bourdon">
+     <"129029327" 48.875 2.3381 20 "9111" "Victoire - Laffitte">
+     <"1063429705" 48.793 2.3631 23 "48005" "Eugène Varlin - Place de la Paix">
+     <"478250062" 48.864 2.3341 24 "1014" "Rivoli - Musée du Louvre">
+     <"1062833975" 48.835 2.3294 35 "14133" "Froidevaux - Boulard">
+     <"11908510683" 48.823 2.4042 26 "42211" "Séminaire de Conflans - Liberté">
+     <"2515756572" 48.816 2.3124 33 "21215" "Verdier - Jean Jaurès">
+     <"1063410400" 48.855 2.4931 22 "41208" "Alouettes - Maréchal de Lattre de Tassigny">
+     <"80298493" 48.812 2.357 25 "42704" "Mairie du Kremlin-Bicêtre">
+     <"96608796" 48.862 2.365 29 "3003" "Fille du Calvaire - Turenne">
+     <"48800374" 48.857 2.3515 14 "4017" "Place de l'Hôtel de Ville">
+     <"58391194" 48.856 2.3579 28 "4012" "Tiron - Rivoli ">
+     <"1063984816" 48.884 2.3561 18 "10041" "Gare du Nord - La Chapelle">
+     <"128878135" 48.853 2.3607 28 "4009" "Village Saint-Paul">
+     <"1063044618" 48.916 2.2948 30 "26006" "Bas - Gabriel Péri">
+     <"1063421211" 48.816 2.3687 40 "42026" "Barbès - Monique Maunoury">
+     <"569583918" 48.87 2.336 44 "2012" "Choiseul - Quatre Septembre ">
+     <"129083553" 48.839 2.2525 32 "16044" "Porte de Saint Cloud - Parc des Princes">
+     <"1074204954" 48.804 2.409 30 "44001" "Quai Jules Guesde - Saint-Simon">
+     <"100767550" 48.856 2.3564 44 "4015" "Mairie du 4ème">
+     <"1074333296" 48.82 2.4463 42 "12163" "Hippodrome Paris-Vincennes">
+     <"11908496227" 48.872 2.2225 24 "21509" "Gardenat Lapostol - Franklin Roosevelt">
+     <"54000537" 48.858 2.3647 18 "3002" "Saint-Gilles - Turenne">
+     <"653094517" 48.897 2.3745 40 "19111" "Cesaria Evora - Rosa Parks">
+     <"1396728955" 48.854 2.3686 23 "4101" "Bastille - Beaumarchais">
+     <"442739463" 48.867 2.3635 18 "3004" "Place de la République - Temple">
+     <"128834707" 48.863 2.3415 22 "1012" "Jean-Jacques Rousseau - Deux Ecus">
+     <"78374110" 48.867 2.3484 17 "2004" "Square Pierre Lazareff">
+     <"653097126" 48.892 2.3851 26 "19130" "Place Paul Delouvrier">
+     <"391845823" 48.889 2.4144 25 "35012" "Candale - Mehul">
+     <"15433394" 48.889 2.347 41 "18015" "Custine - Ramey">
+     <"653140345" 48.863 2.2089 24 "21505" "Édouard Vaillant - Place Jean Jaurès">
+     <"15290700" 48.869 2.3502 21 "2016" "Aboukir - Alexandrie">
+     <"276989966" 48.861 2.34 18 "1025" "Oratoire - Rivoli">
+     <"2515885093" 48.911 2.3676 31 "33020" "Waldeck Rochet - Germaine Tillon">
+     <"54001189" 48.872 2.3336 28 "9039" "Chaussée d'Antin - Haussmann">
+     <"653153519" 48.913 2.2577 20 "22506" "Gare des Vallées">
+     <"39887632" 48.822 2.3633 25 "13038" "Choisy - Malmaisons">
+     <"49423507" 48.831 2.3774 53 "13054" "Pau Casals - Neuve Tolbiac">
+     <"6293" 48.867 2.3405 28 "2008" "Mairie du 2ème">
+     <"653072212" 48.939 2.3566 30 "32019" "Place du 8 mai 1945">
+     <"128843085" 48.863 2.3401 30 "1026" "Place du Lieutenant Henri Karcher">
+     <"1063027377" 48.822 2.2059 25 "23101" "Grande Rue - Europe">
+     <"653085678" 48.894 2.3126 24 "17106" "Berthier - Porte de Clichy">
+     <"581480367" 48.847 2.3956 68 "12157" "Fabre d'Eglantine - Place de la Nation">
+     <"6352" 48.858 2.3502 19 "4018" "Saint-Bon - Rivoli">
+     <"653222953" 48.871 2.4866 30 "31104" "Mairie de Rosny-sous-Bois">
+     <"120564786" 48.869 2.3398 58 "2009" "Filles Saint-Thomas - Place de la Bourse">
+     <"210386007" 48.865 2.3294 21 "1018" "Alger - Rivoli">
+     <"6245" 48.867 2.3344 27 "1116" "Ventadour - Opéra">
+     <"1063053136" 48.914 2.2289 20 "27001" "Square Victor Basch">
+     <"27414358" 48.866 2.3306 20 "1017" "Saint-Honoré - 29 juillet">
+     <"101751231" 48.834 2.3088 36 "15040" "Saint-Amand - Labrouste">
+     <"1074339090" 48.829 2.4584 26 "12164" "Stade Pershing">
+     <"1062844489" 48.837 2.3185 33 "14134" "Château - Place de Catalogne">
+     <"54000596" 48.884 2.3057 34 "17021" "Jouffroy d'Abbans - Villiers">
+     <"39169877" 48.849 2.3253 66 "6026" "Saint-Placide - Cherche Midi">
+     <"653155159" 48.792 2.2979 22 "22601" "Marx Dormoy - Château Sainte-Barbe">
+     <"653099465" 48.805 2.3885 31 "42018" "Amédée Huon - Fort d'Ivry">
+     <"323468705" 48.863 2.3349 22 "1023" "Saint-Honoré - Musée du Louvre">
+     <"1810975577" 48.795 2.3594 30 "48008" "Guy Môquet - Parvis Georges Marchais">
+     <"2705356759" 48.885 2.2484 28 "28005" "Jean Jaurès - Paul Lafargue">
+     <"35380305" 48.846 2.3412 35 "5003" "Le Goff - Gay-Lussac">
+     <"100790494" 48.843 2.3298 24 "6007" "Bréa - Raspail">
+     <"653040243" 48.862 2.3595 28 "3007" "Archives - Pastourelle">
+     <"1063061372" 48.86 2.4367 35 "31020" "Résistance - Parmentier">
+     <"2705290225" 48.869 2.266 30 "16139" "Suresnes - Muette à Neuilly">
+     <"214019379" 48.896 2.4006 27 "35005" "Quai de l'Aisne - Général Leclerc">
+     <"82574979" 48.898 2.3335 26 "18112" "Arthur Ranc - Hôpital Bichat">
+     <"1599896463" 48.876 2.3561 24 "10201" "Magenta - Chabrol">
+     <"1987547083" 48.793 2.3509 30 "48007" "Parc Départemental des Hautes-Bruyères">
+     <"2705338817" 48.923 2.2601 22 "27006" "Victor Hugo - Gare">
+     <"1074410417" 48.808 2.3738 28 "42028" "Verdun - Carnot">
+     <"1074352578" 48.839 2.4386 25 "12166" "Parc Floral du Bel Air">
+     <"53999465" 48.862 2.3385 67 "1013" "Place du Palais Royal">
+     <"653156540" 48.794 2.2731 35 "22603" "Place de la Division Leclerc">
+     <"54000573" 48.833 2.4026 46 "12113" "Cardinal Lavigerie">
+     <"66491366" 48.87 2.342 37 "2102" "Saint-Marc - Feydeau">
+     <"99886640" 48.866 2.342 24 "2006" "Place des Victoires">
+     <"1981490798" 48.902 2.3173 24 "21119" "Belfort - Victor Hugo">
+     <"129080400" 48.866 2.2829 23 "16010" "Belles Feuilles - Place de Mexico">
+     <"6297" 48.881 2.3367 18 "9019" "Victor Massé - Jean-Baptiste Pigalle">
+     <"210328645" 48.864 2.3356 19 "1015" "Place André Malraux">
+     <"1074428106" 48.78 2.3131 30 "23042" "André Theuriet - Blagis">
+     <"653102462" 48.812 2.4018 43 "42019" "Lampes">
+     <"653031913" 48.868 2.3438 19 "2109" "Réaumur - Montmartre">
+     <"1057210479" 48.938 2.3509 16 "32020" "Jules Guesdes - Carnot">
+     <"27414527" 48.868 2.3334 20 "2020" "Danielle Casanova - Opéra">
+     <"653092274" 48.889 2.395 33 "19046" "Porte de Pantin.">
+     <"208603342" 48.864 2.3426 21 "1024" "Coquillière - Louvre">
+     <"311153993" 48.864 2.3426 32 "1008" "Les Halles - Saint-Eustache">
+     <"632086890" 48.792 2.3951 28 "44004" "Place de l'Eglise - Vitry-sur-Seine">
+     <"653104215" 48.865 2.3937 34 "20010" "Sorbier - Gasnier-Guy">
+     <"54000557" 48.877 2.3745 22 "19118" "Simon Bolivar - Henri Turot">
+     <"653110858" 48.832 2.234 23 "21011" "Silly - Louis Blériot">
+     <"653159330" 48.829 2.2238 28 "23104" "Quai de Sèvres - Manufacture Nationale">
+     <"49424560" 48.845 2.4016 35 "12016" "Saint-Mande - Picpus">
+     <"653165196" 48.785 2.3025 27 "23301" "Les Blagis">
+     <"1074390359" 48.782 2.394 33 "44008" "Youri Gagarine - Commune de Paris">
+     <"2002864789" 48.87 2.3543 16 "10166" "Strasbourg - Saint-Denis">
+     <"11146714746" 48.908 2.3407 28 "34013" "Blanqui - Docteur Bauer">
+     <"11146696292" 48.82 2.4114 32 "42210" "Victor Hugo - Paul Eluard">
+     <"653107480" 48.851 2.412 22 "20140" "Paganini - Davout">
+     <"1988517250" 48.784 2.3669 26 "48012" "Stalingrad - Henri Luisette">
+     <"74864208" 48.86 2.4033 28 "20048" "Bagnolet - Place Saint-Blaise">
+     <"653166892" 48.78 2.2818 30 "23303" "Gare de Robinson">
+     <"653106960" 48.814 2.3924 37 "42022" "Gare RER - Maurice Grandcoing">
+     <"54000536" 48.871 2.3459 35 "2022" "Saint-Fiacre - Poissonière">
+     <"39565873" 48.885 2.3071 27 "17020" "Jouffroy d'Abbans - Malesherbes">
+     <"1074398925" 48.824 2.5102 37 "45004" "République - Louis Loucheur">
+     <"12225158518" 48.802 2.2874 27 "23202" "Henri Barbusse - Gabriel Péri">
+     <"12225289563" 48.804 2.2848 28 "23206" "Béranger - Félix Faure">
+     <"567884788" 48.834 2.3704 22 "13049" "Vincent Auriol - Louise Weiss">
+     <"99950133" 48.854 2.3391 55 "6015" "André Mazet - Saint-André des Arts">
+     <"549480297" 48.833 2.3711 23 "13051" "Halle Freyssinet - Parvis Alan Turing">
+     <"12196660096" 48.874 2.365 30 "10202" "Bichat - Grange aux Belles">
+     <"653175838" 48.805 2.1883 18 "23703" "Gare de Chaville Rive Gauche">
+     <"84960402" 48.837 2.3515 40 "5027" "Gobelins - Port-Royal">
+     <"2515701705" 48.864 2.3916 20 "20142" "Mûriers - Père Lachaise">
+     <"11218473640" 48.873 2.1947 24 "25007" "Bons Raisins - Voltaire">
+     <"54000558" 48.874 2.2999 0 "8104" "Chateaubriand - Friedland">
+     <"653110492" 48.816 2.3833 28 "42024" "Danielle Casanova - Ledru-Rollin">
+     <"102339791" 48.822 2.2853 27 "21704" "Place du Maréchal de Lattre de Tassigny">
+     <"52474" 48.876 2.393 21 "19121" "Belleville -  Pré Saint-Gervais">
+     <"486750405" 48.898 2.3365 24 "18135" "Ney - Porte de Montmartre">
+     <"10773448319" 48.915 2.3307 28 "34011" "Clef des Champs - Albert Dhalenne">
+     <"11438171152" 48.827 2.1893 24 "24101" "Place Charles de Gaulle">
+     <"15550433574" 48.951 2.2112 38 "51008" "Martyrs de Châteaubriant - Jean Grandel">
+     <"125370566" 48.879 2.3788 20 "19114" "Manin - Secrétan">
+     <"66491396" 48.844 2.4392 52 "12123" "Château de Vincennes">
+     <"102328355" 48.843 2.246 20 "21002" "Place Denfert-Rochereau">
+     <"76352106" 48.876 2.3198 31 "8018" "Saint-Augustin">
+     <"653180903" 48.901 2.2612 35 "24004" "Paix - Verdun">
+     <"101015227" 48.833 2.3712 35 "13015" "Chevaleret - Louise Weiss">
+     <"74805344" 48.87 2.3044 32 "8040" "Pierre Charron - Champs-Elysées">
+     <"78124875" 48.891 2.3763 55 "19006" "Mathis - Flandre">
+     <"89553051" 48.848 2.4062 21 "20003" "Pyrénées - Cours de Vincennes">
+     <"54000578" 48.826 2.3502 33 "13024" "Bobillot - Tolbiac">
+     <"102724418" 48.782 2.3167 25 "23041" "Général Leclerc - Bièvre">
+     <"42950428" 48.82 2.3726 50 "13116" "Place du Docteur Yersin">
+     <"102287315" 48.841 2.2884 44 "15069" "Félix Faure - Convention">
+     <"49791363" 48.873 2.3002 30 "8052" "Balzac - Champs Elysées">
+     <"100921894" 48.855 2.3872 19 "11111" "Léon Frot - Charonne">
+     <"82429586" 48.838 2.3571 40 "13006" "Duméril - Jeanne d'Arc">
+     <"37995" 48.825 2.4099 50 "12119" "Dom-Pérignon - Gravelle">
+     <"653193536" 48.797 2.3683 20 "48006" "Maxime Gorki - Paul Vaillant-Couturier">
+     <"54000589" 48.843 2.3023 67 "15012" "Cambronne - Mademoiselle">
+     <"74692052" 48.89 2.3425 34 "18016" "Francoeur - Caulaincourt">
+     <"35080917" 48.886 2.3775 30 "19117" "Euryale Dehaynin - Loire">
+     <"11218807773" 48.911 2.334 48 "34010" "Hôtel de Ville de Saint-Ouen">
+     <"101759167" 48.839 2.2915 46 "15053" "Lecourbe - Convention">
+     <"37420" 48.871 2.3496 17 "10003" "Hauteville - Bonne Nouvelle">
+     <"27363058" 48.851 2.3012 23 "15024" "Suffren - La Motte-Piquet">
+     <"66491390" 48.876 2.3354 39 "9025" "Taitbout - Châteaudun">
+     <"653114003" 48.833 2.2503 25 "21022" "Dôme - République">
+     <"27363206" 48.89 2.3602 29 "18010" "Riquet - Marx Dormoy">
+     <"54000591" 48.833 2.3068 37 "15041" "Franquet - Labrouste">
+     <"7402" 48.858 2.3818 16 "11022" "Roquette - Auguste Laurent">
+     <"75352635" 48.81 2.3271 25 "41103" "Place de la vache noire">
+     <"34836174" 48.844 2.4184 32 "41602" "Place Charles Digeon">
+     <"6354" 48.821 2.3513 33 "13028" "Gouthière - Poterne des Peupliers">
+     <"101022698" 48.827 2.3651 36 "13036" "Olympiades">
+     <"27415194" 48.831 2.3189 36 "14027" "Gergovie - Alésia">
+     <"54000624" 48.875 2.406 20 "20110" "Gambetta - Tourelles">
+     <"653114443" 48.794 2.3366 20 "42303" "Place Eustache Deschamps">
+     <"653190196" 48.805 2.364 37 "48002" "LCL Campus - Place Oscar Niemeyer">
+     <"27363156" 48.836 2.4189 22 "41605" "Général De Gaulle - Vivien">
+     <"74635382" 48.849 2.3973 47 "11014" "Place de la Nation - Taillebourg">
+     <"39776330" 48.854 2.4 17 "20012" "Buzenval - Vignoles">
+     <"54000594" 48.881 2.3769 27 "19119" "Edouard Pailleron - Bouret">
+     <"66491373" 48.821 2.3788 19 "13120" "Pierre Joseph Desault">
+     <"66491409" 48.89 2.4199 20 "35013" "Guillaume Tell - Parc Henri Barbusse">
+     <"82583924" 48.861 2.4004 29 "20020" "Pyrénées - Charles Renouvier">
+     <"124183944" 48.847 2.3771 54 "12008" "Hector Malot - Daumesnil">
+     <"27363389" 48.846 2.3704 30 "12102" "Bercy - Traversiére">
+     <"653184632" 48.902 2.2694 33 "24005" "Edith Cavell - Volta">
+     <"102751453" 48.848 2.4399 27 "43007" "Hôtel de Ville de Vincennes">
+     <"35263507" 48.838 2.3407 23 "14004" "Port Royal - Hôpital Cochin">
+     <"58086242" 48.866 2.3891 12 "20032" "Square des Amandiers">
+     <"82440673" 48.838 2.3225 50 "14035" "Maine - Jean Zay">
+     <"27399547" 48.836 2.2897 22 "15050" "Dominique Pado - Croix Nivert">
+     <"54000610" 48.853 2.2759 68 "16025" "Jean de la Fontaine - Boulainvilliers">
+     <"13356269" 48.849 2.3285 32 "6025" "Assas - Rennes">
+     <"54000583" 48.831 2.3344 36 "14009" "Tombe Issoire - René Coty">
+     <"63279" 48.862 2.2753 16 "16017" "Siam - La Pompe">
+     <"125918662" 48.891 2.3449 21 "18021" "Marcadet - Ramey">
+     <"15163771" 48.85 2.2683 29 "16116" "George Sand - Jean de La Fontaine">
+     <"82571023" 48.855 2.3998 45 "20013" "Alexandre Dumas - Place de la Réunion">
+     <"27363205" 48.828 2.2924 35 "15045" "Porte de la Plaine">
+     <"653197206" 48.876 2.1656 24 "25004" "Marcel Pourtout - Édouard Manet ">
+     <"27415256" 48.841 2.4044 33 "12022" "Sahel - Général Michel Bizot">
+     <"101488317" 48.833 2.3329 36 "14005" "René Coty - Place Denfert-Rochereau">
+     <"6497" 48.837 2.3127 20 "15027" "Duhamel - André Gide">
+     <"653118283" 48.838 2.2341 25 "21023" "Ancienne Mairie - André Morizet">
+     <"117480156" 48.833 2.2571 40 "21021" "Enfants du Paradis - Peupliers">
+     <"124167835" 48.863 2.4957 18 "31105" "Lavoisier - Missak Manouchian">
+     <"74858883" 48.888 2.3101 32 "17117" "Pereire - Saussure">
+     <"66491384" 48.822 2.413 35 "42205" "Place Aristide Briand">
+     <"100893610" 48.861 2.2956 60 "7023" "Bourdonnais - Tour Eiffel">
+     <"102748267" 48.85 2.4345 25 "43004" "Montreuil - République">
+     <"28233012" 48.865 2.3003 32 "8046" "Marceau - Président Wilson">
+     <"27415371" 48.856 2.3949 35 "20014" "Charonne - Alexandre Dumas">
+     <"49829553" 48.888 2.3203 30 "17110" "Legendre - Nollet">
+     <"128884445" 48.861 2.3148 65 "7010" "Constantine - Université">
+     <"37848502" 48.818 2.3076 25 "22404" "Pierre Brossolette - 12 Février 1934">
+     <"54000552" 48.874 2.3256 30 "8007" "Rome - Provence">
+     <"102752610" 48.868 2.418 28 "31701" "Mairie de Bagnolet">
+     <"82335295" 48.853 2.3441 30 "5033" "Saint-Séverin - Saint-Michel">
+     <"66491382" 48.892 2.3232 36 "17006" "Guy Môquet - Compoint">
+     <"124176568" 48.873 2.3799 17 "19102" "Rampal - Belleville">
+     <"39882420" 48.895 2.3498 22 "18101" "Championnet.">
+     <"27415360" 48.849 2.4123 19 "20005" "Reynaldo Hahn - Lagny">
+     <"82588494" 48.815 2.3174 29 "21207" "Verdier - République">
+     <"125542925" 48.882 2.3636 37 "10031" "Louis Blanc - Aqueduc">
+     <"54000547" 48.852 2.3382 37 "6028" "Quatre Vents - Carrefour de l'Odéon">
+     <"82425449" 48.835 2.4314 51 "12122" "Bois de Vincennes - Polygone">
+     <"7234" 48.83 2.2753 29 "15120" "Colonel Pierre Avia">
+     <"85160045" 48.814 2.3069 26 "21205" "Arthur Auger - Jean Jaurès">
+     <"82408364" 48.864 2.3809 38 "11028" "Guillaume Bertrand - République">
+     <"653190279" 48.903 2.2789 21 "24007" "Jean-Baptiste Charcot - Sainte-Geneviève">
+     <"82551956" 48.848 2.2653 32 "16033" "Marché d'Auteuil">
+     <"66491372" 48.829 2.3802 60 "13055" "M.- A. Lagroua Weill-Hallé -  F. Dolto">
+     <"54000568" 48.852 2.3933 48 "11016" "Philippe-Auguste">
+     <"82413301" 48.867 2.383 40 "11029" "Ménilmontant - Oberkampf">
+     <"54000623" 48.865 2.3991 27 "20106" "Mairie du 20ème">
+     <"80077998" 48.886 2.3826 19 "19014" "Lorraine - Jean Jaurès">
+     <"13248144" 48.841 2.3081 34 "15014" "Volontaires - Vaugirard">
+     <"35816213" 48.858 2.284 33 "16023" "Passy - Place du Costa Rica">
+     <"39311270" 48.839 2.3164 33 "15114" "Pasteur - Cotentin">
+     <"54000631" 48.888 2.2784 25 "22014" "Victor Hugo - Bineau">
+     <"99840124" 48.847 2.3269 46 "6004" "Regard - Rennes">
+     <"653121023" 48.832 2.2558 25 "21027" "Fief - République">
+     <"76507850" 48.83 2.2959 33 "15044" "Dantzig - Lefebvre">
+     <"101010226" 48.831 2.3989 67 "12040" "Porte de Charenton">
+     <"27415083" 48.832 2.3547 52 "13008" "Place d'Italie - Soeur Rosalie">
+     <"653194214" 48.878 2.1817 20 "25002" "Hôtel de Ville de Rueil-Malmaison">
+     <"11375742" 48.84 2.3131 25 "15113" "Arsonval - Falguière">
+     <"27415333" 48.894 2.3729 56 "19001" "Crimée - Ourcq">
+     <"27363397" 48.858 2.28 19 "16022" "Jean Bologne - Passy">
+     <"66491369" 48.843 2.3265 49 "6005" "Montparnasse -  Square Ozanam">
+     <"39878420" 48.855 2.4052 20 "20011" "Pyrénées - Dagorno">
+     <"27363504" 48.83 2.3182 30 "14025" "Jacquier - Didot">
+     <"27414932" 48.864 2.3783 38 "11018" "Saint-Maur - République">
+     <"14623073464" 48.861 2.2247 46 "21511" "Marcel Monge - Marcel Dassault">
+     <"82588656" 48.84 2.228 53 "21007" "Rond-Point Rhin et Danube">
+     <"35471668" 48.893 2.3791 30 "19007" "Flandre - Ourcq">
+     <"27415500" 48.829 2.2459 26 "21016" "Point du Jour - Jean Jaurès">
+     <"11580442" 48.839 2.3569 17 "5105" "Geoffroy-Saint-Hilaire - Saint-Marcel">
+     <"99798962" 48.853 2.3427 37 "6020" "Place Saint-André des Arts">
+     <"66507230" 48.84 2.361 21 "13013" "Saint-Marcel - Hôpital">
+     <"125881065" 48.891 2.3866 33 "19123" "Metz - Marne">
+     <"54000627" 48.899 2.3042 23 "21107" "Bertrand Sincholle - Henri Barbusse">
+     <"84961467" 48.844 2.3547 54 "5031" "Lacépède - Linné">
+     <"54000629" 48.875 2.2558 36 "22007" "Commandant Charcot - Bretteville">
+     <"27415004" 48.835 2.4009 38 "12039" "Général Michel Bizot - Claude Decaen">
+     <"27415128" 48.825 2.3631 20 "13037" "Ivry - Baudricourt">
+     <"27414937" 48.845 2.4049 39 "12017" "Saint-Mandé - Docteur Arnold Netter">
+     <"42588096" 48.829 2.353 28 "13023" "Bobillot - Moulin des Prés">
+     <"121086415" 48.87 2.3076 24 "8039" "Colisée - Champs-Elysées">
+     <"100227241" 48.847 2.3325 36 "6009" "Guynemer - Jardin du Luxembourg">
+     <"2254322638" 48.813 2.3707 26 "42027" "Verdun - Pierre et Marie Curie">
+     <"15377776" 48.871 2.2887 35 "16104" "Paul Valery - Victor Hugo">
+     <"70736110" 48.868 2.3851 33 "20033" "Etienne Dolet - Place Maurice Chevalier">
+     <"101013666" 48.842 2.3768 34 "12105" "Bercy - Villot">
+     <"15189890802" 48.87 2.2188 24 "21510" "Fontaine du Tertre - Calvaire">
+     <"11063317380" 48.832 2.2293 18 "21033" "Sèvres - Maréchal Juin">
+     <"121160813" 48.879 2.2915 28 "17036" "Place Tristan Bernard">
+     <"66491388" 48.878 2.3053 33 "8044" "Alfred de Vigny - Place du Général Brocard">
+     <"653046369" 48.92 2.3439 36 "32012" "Carrefour Pleyel">
+     <"54000628" 48.91 2.3118 56 "21112" "Claude Debussy - Marc Bloch">
+     <"15187848239" 48.922 2.2718 30 "22703" "Place Jean Mermoz">
+     <"16043228469" 48.86 2.3412 0 "1201" "Perrault - Place du Louvre">
+     <"16043242148" 48.897 2.2523 0 "24010" "Charles de Gaulle - Rue de l'Alma">
+     <"129095489" 48.883 2.3238 28 "17050" "Batignolles - Abel Truchet">
+     <"16043282800" 48.832 2.4903 0 "41304" "Port - Maurice Chevalier">
+     <"16043316164" 48.951 2.231 0 "51007" "Résistance - Romain Rolland">
+     <"1057383154" 48.784 2.4079 49 "44009" "Gare RER les Ardoines">
+     <"218903767" 48.869 2.36 62 "10001" "René Boulanger - Lancry">
+     <"37647" 48.88 2.3528 29 "10028" "Gare du Nord - Dunkerque">
+     <"523900881" 48.889 2.3926 60 "19018" "Cité de la Musique">
+     <"54000556" 48.88 2.3568 28 "10151" "Gare du Nord - Faubourg Saint-Denis">
+     <"54000555" 48.87 2.3107 33 "8031" "Jean Mermoz - Champs-Elysées">
+     <"2515618216" 48.864 2.2399 30 "16140" "Hippodrome de Longchamp">
+     <"1057387136" 48.785 2.3979 30 "44010" "8 Mai 1945 - 10 Juillet 1940">
+     <"11908488283" 48.875 2.2324 26 "21508" "Georges Pompidou - Verdun">
+     <"85123644" 48.869 2.3951 26 "20035" "Pyrénées - Ménilmontant">
+     <"100863462" 48.86 2.3259 65 "7007" "Musée d'Orsay">
+     <"253357936" 48.839 2.2818 58 "15032" "Félix Faure - Lourmel">
+     <"42517412" 48.871 2.4039 24 "20037" "Gambetta - Saint Fargeau">
+     <"54000551" 48.872 2.2985 17 "8003" "Galilée - Vernet">
+     <"213699079" 48.899 2.3793 67 "19045" "Macdonald - Césaria Evora">
+     <"10647548670" 48.852 2.449 22 "41212" "Nungesser - Santé">
+     <"10647608657" 48.905 2.322 30 "34009" "Dora Maar - Nadia Guendouz">
+     <"213676294" 48.829 2.3759 21 "13053" "Chevaleret - Tolbiac">
+     <"15066765479" 48.934 2.3065 0 "22302" "Gare RER - Général de Gaulle">
+     <"95073815" 48.877 2.3329 39 "9029" "Saint-Lazare - Place d'Estienne d'Orves">
+     <"11266280626" 48.903 2.3978 32 "35021" "Cartier Bresson - Denis Papin">
+     <"49039283" 48.891 2.3309 19 "18018" "Carpeaux - Place Jacques Froment">
+     <"35642049" 48.877 2.366 15 "10025" "Jemmapes - Ecluses Saint-Martin">
+     <"11851012506" 48.928 2.2947 35 "22305" "Jean Jaurès - Place du Dr Roux">
+     <"27033125" 48.887 2.3262 16 "18045" "Pierre Ginier - Clichy">
+     <"13341879803" 48.91 2.2454 26 "22507" "Châteaudun - Place de la Liberté">
+     <"1074347188" 48.835 2.448 20 "12165" "Champs de Manoeuvre - Cartoucherie">
+     <"2515774908" 48.808 2.2407 23 "21954" "Val-Fleury">
+     <"11851103861" 48.799 2.2834 25 "23203" "Division Leclerc - Kléber">
+     <"12943772652" 48.788 2.2908 31 "22602" "Place Henri Dunant - Gare RER">
+     <"12948189248" 48.941 2.3639 30 "32023" "Guy Môquet - Jean Moulin">
+     <"15826185972" 48.849 2.3936 16 "11201" "Faubourg St-Antoine - Place de la Nation">
+     <"82423726" 48.844 2.3791 68 "12106" "Gare de Lyon - Roland Barthes">
+     <"252301607" 48.884 2.2608 22 "22005" "Charles de Gaulle - Madrid">
+     <"12806084887" 48.81 2.3004 45 "23201" "Avenir">
+     <"12959947458" 48.797 2.291 23 "23205" "Parc des Pierrettes">
+     <"210581084" 48.878 2.3273 44 "9035" "Gare Saint-Lazare - Place de Budapest">
+     <"368766689" 48.819 2.3967 25 "42004" "Westermeyer - Paul Vaillant-Couturier">
+     <"11437761399" 48.913 2.2734 34 "26008" "Henri Barbusse - Bourguignons">
+     <"11438116799" 48.897 2.3105 40 "17127" "Porte de Clichy - Place des Nations Unies">
+     <"11437961617" 48.912 2.2959 28 "26009" "Marceau Delorme - Pierre Brossolette">
+     <"11437706131" 48.916 2.324 26 "34012" "Bateliers - Quai de Seine">
+     <"11438049493" 48.9 2.3215 32 "17126" "Hélène et François Missoffe - Emile Borel">
+     <"11437651826" 48.903 2.3482 30 "34005" "Adrien Lesesne - Docteur Bauer">
+     <"11004720021" 48.906 2.3316 30 "34008" "Garibaldi - Gabriel Péri">
+     <"102335085" 48.821 2.2511 25 "21302" "Aristide Briand - Place de la Résistance">
+     <"13373758036" 48.809 2.2853 28 "23204" "Roland Garros - Jean Bouin">
+     <"13373712848" 48.865 2.2048 24 "21514" "Place de la Paix - Abbé Saint-Pierre">
+     <"13373848216" 48.904 2.4654 28 "31303" "Simone Signoret - Paris">
+     <"13373801574" 48.896 2.4596 30 "31301" "Gare RER">
+     <"394404659" 48.876 2.3266 45 "8002" "Gare Saint-Lazare - Cour du Havre">
+     <"516395829" 48.851 2.3625 14 "4005" "Quai des Célestins - Henri IV">
+     <"82402482" 48.879 2.3624 59 "10026" "Gare de l'Est - Chateau Landon">
+     <"129088667" 48.895 2.3187 40 "17010" "Jonquière - Docteur Paul Brousse">
+     <"54000604" 48.891 2.3513 35 "18023" "Ordener - Poissonniers">
+     <"43247738" 48.893 2.3401 35 "18026" "Ruisseau - Ordener">
+     <"1062807847" 48.835 2.376 42 "13123" "BNF - Bibliothèque Nationale de France">
+     <"102311820" 48.891 2.3486 35 "18024" "Clignancourt - Ordener">
+     <"34742973" 48.836 2.2784 22 "15056" "Place Balard">
+     <"315022587" 48.87 2.3232 67 "8004" "Malesherbes - Place de la Madeleine">
+     <"478732841" 48.862 2.3501 16 "4104" "Sebastopol - Rambuteau">
+     <"129026597" 48.874 2.3285 22 "9104" "Caumartin - Provence">};
+

@@ -1,0 +1,9 @@
+maintenanceWorkshop =  "al";
+
+
+stations_info = {
+    <21, "stat1", 41, 23, "code1", "nom1">,
+    <31, "stat2", 41, 23, "code2", "nom2">,
+    <41, "stat3", 41, 23, "code3", "nom3">,
+    <1,  "stat4", 41, 23, "code4", "nom4">,
+};

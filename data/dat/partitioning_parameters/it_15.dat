@@ -1,0 +1,2 @@
+// Average time to check a dock/bike (expressed in mn)
+averageInspectionTime = 15;

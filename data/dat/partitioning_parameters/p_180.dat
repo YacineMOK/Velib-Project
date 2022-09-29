@@ -1,0 +1,2 @@
+// Service Period length (in mn)
+periodLength = 180;					// 3h

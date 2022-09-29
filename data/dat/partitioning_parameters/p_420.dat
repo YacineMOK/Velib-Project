@@ -1,0 +1,2 @@
+// Service Period length (in mn)
+periodLength = 420;					// 7h per day

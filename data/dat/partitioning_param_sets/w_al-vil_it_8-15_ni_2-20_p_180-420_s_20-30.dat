@@ -1,0 +1,5 @@
+workshopsAbrev =  {"al","vil"};
+inspectionTimes = {8,10,12,15};
+numberOfInspectors = {2,3,5,8,10,12,15,20};
+periodLengths =  {180,210,240,420};
+speeds =  {20,25,30};

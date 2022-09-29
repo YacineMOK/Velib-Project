@@ -1,0 +1,14 @@
+// Instance name
+instance_name = "instance_220503-1347_al_10_2_180_25.dat";
+
+// Instance files 
+instance_files = {
+	"../../../data/dat/stations_info/stations_info_220503-1347.dat",
+	"../../../data/dat/stations_status/stations_status_220503-1347.dat",
+	"../../../data/dat/partitioning_parameters/w_al.dat",
+	"../../../data/dat/partitioning_parameters/it_10.dat",
+	"../../../data/dat/partitioning_parameters/ni_2.dat",
+	"../../../data/dat/partitioning_parameters/p_180.dat",
+	"../../../data/dat/partitioning_parameters/s_25.dat"
+};
+
